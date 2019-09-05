@@ -109,7 +109,7 @@ Screening:
 * Jordan Belson, _Samahdi_ (USA, 1967, 6 mins.)
 * Stanley Kubrick, _2001: A Space Odyssey_ (USA, 1968, 149 mins.)
 
-### November 4–8: No meetings; it's Reading Week.
+#### November 4–8: No meetings; it's Reading Week.
 
 ### Week 9: Secondary cinematic identification, or passionate detachment
 #### Monday, November 11: 
@@ -163,10 +163,11 @@ Homework due:
 
 #### Thursday, December 5, Makeup Monday: No class; work on your papers.
 
-### Thursday, December 5: Paper 2 due at 11:59pm. Blanket extension for the whole class to Monday, December 9, 11:59pm.
+### Thursday, December 5: Paper 2 due at 11:59pm.<br />Blanket extension for the whole class to Monday, December 9, 11:59pm.
 
 #### Thursday & Friday, December 5 & 6: No tutorials; it's Makeup Monday and Reading Day.
 
+---
 
 ## Unit 3: What isn't cinema?
 
