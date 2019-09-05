@@ -285,7 +285,7 @@ Tutorials:
 
 ### Week 21: Animation & machine
 #### Monday, March 9: Reading due:
-* Tom Lamarre, “The Anime Machine,” from The _Anime Machine_
+* Tom Lamarre, “The Anime Machine,” from _The Anime Machine_
 * Marc Steinberg, “Limiting Movement, Inventing Anime,” from _Anime’s Media Mix_
 * OH: “The Modernization of Japanese Film”
 
