@@ -324,7 +324,7 @@ Screening:
 ### Monday, March 30:
 No reading due. Scott offers a conclusion to the course and a review for the final exam.
 
-### Wednesday, April 1:No class. 
+#### Wednesday, April 1:No class. 
 Scott (& many TAs) will be out of town for SCMS.
 
-### April 2 & 3: No tutorials.
+#### April 2 & 3: No tutorials.
