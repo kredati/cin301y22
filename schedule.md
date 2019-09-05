@@ -328,3 +328,5 @@ No reading due. Scott offers a conclusion to the course and a review for the fin
 Scott (& many TAs) will be out of town for SCMS.
 
 #### April 2 & 3: No tutorials.
+
+## Final exam date TBD.
