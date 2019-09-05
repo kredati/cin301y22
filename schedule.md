@@ -208,7 +208,7 @@ Homework due:
 ### Week 16: Television, Liveness
 #### Monday, January 27: 
 Reading due:
-* Marshall McLuhan, “The Gadget Lover” (etc.?) from _Understanding Media_ 
+* Marshall McLuhan, “The Gadget Lover,” from _Understanding Media_ 
 * Mary Ann Doane, “Information, Crisis, Catastrophe”
 * Jane Feuer, “The Concept of Live Television: Ontology as Ideology”
 * OH: “Television and the Film Industry”
