@@ -10,7 +10,7 @@
 
 #### Wednesday, September 11: 
 Screening: 
-* Jorge Fertado, _Isle of Flowers_ (Ilha das Flores, Brazil, 1990, 13 mins.)
+* Jorge Fertado, _Isle of Flowers_ (_Ilha das Flores_, Brazil, 1990, 13 mins.)
 * Martin Arnold, _Passage à l’Acte_ (Austria, 1993, 11 mins.)
 
 Reading due:
