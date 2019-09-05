@@ -9,14 +9,14 @@
 #### Monday, September 9: Introduction to CIN301.
 
 #### Wednesday, September 11: 
-Screening: 
-* Jorge Fertado, _Isle of Flowers_ (_Ilha das Flores_, Brazil, 1990, 13 mins.)
-* Martin Arnold, _Passage à l’Acte_ (Austria, 1993, 11 mins.)
-
 Reading due:
 * Hans-Georg Gadamer, “Aesthetics and Hermeneutics”
 * Vivian Sobchack, “What is Film History?”
 * Janet Staiger, “The Future of the Past”
+
+Screening: 
+* Jorge Fertado, _Isle of Flowers_ (_Ilha das Flores_, Brazil, 1990, 13 mins.)
+* Martin Arnold, _Passage à l’Acte_ (Austria, 1993, 11 mins.)
 
 #### Thursday & Friday, September 12 & 13: First tutorial meetings.
 
