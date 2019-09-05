@@ -10,9 +10,9 @@
 
 #### Wednesday, September 11: 
 Reading due:
-* Hans-Georg Gadamer, “Aesthetics and Hermeneutics”
-* Vivian Sobchack, “What is Film History?”
-* Janet Staiger, “The Future of the Past”
+* Hans-Georg Gadamer, “[Aesthetics and Hermeneutics](https://cr.library.utoronto.ca/get/course/532959/hash/i.DTpfw5)”
+* Vivian Sobchack, “[What is Film History?](https://cr.library.utoronto.ca/get/course/532959/hash/i.tmLSKJ)”
+* Janet Staiger, “[The Future of the Past](https://q.utoronto.ca/files/4270982/download?download_frd=1)”
 
 Screening: 
 * Jorge Fertado, _Isle of Flowers_ (_Ilha das Flores_, Brazil, 1990, 13 mins.)
@@ -23,9 +23,8 @@ Screening:
 ### Week 2: Underground cinema
 #### Monday, September 16: 
 Reading due:
-* Susan Sontag, “Notes on Camp”
-* Susan Sontag, “Flaming Creatures”
-* Ara Osterweil, "Saint Barbara: The Cinema of Barbara Rubin," from _Flesh Cinema_
+* Susan Sontag, [“Notes on Camp” and “Flaming Creatures,”](https://cr.library.utoronto.ca/get/course/532959/hash/i.TqzG5w) from _Against Interpretation_
+* Ara Osterweil, "[Saint Barbara: The Cinema of Barbara Rubin](https://cr.library.utoronto.ca/get/course/532959/hash/i.rN48JL)," from _Flesh Cinema_
 * OH: “Sex and Sensation,” and “Avant-Garde Film: The Second Wave”
 
 #### Wednesday, September 18: 
@@ -37,9 +36,9 @@ Screening:
 ### Week 3: The New Waves
 #### Monday, September 23: 
 Reading due:
-* Jan Žalman, “Question Marks on the New Czechoslovak Cinema”
-* Jean-Francois Lyotard, “Acinema”
-* Bliss Cua Lim, “Dolls in Fragments: _Daisies_ as Feminist Allegory”
+* Jan Žalman, “[Question Marks on the New Czechoslovak Cinema](https://cr.library.utoronto.ca/get/course/532959/hash/i.c3X7Gz)”
+* Jean-Francois Lyotard, “[Acinema](https://cr.library.utoronto.ca/get/course/532959/hash/i.bVkF4d)”
+* Bliss Cua Lim, “[Dolls in Fragments: _Daisies_ as Feminist Allegory](https://cr.library.utoronto.ca/get/course/532959/hash/i.52244D)”
 * OH: “Changing States in East Central Europe”
 
 #### Wednesday, September 25: 
@@ -49,10 +48,10 @@ Screening:
 ### Week 4: Third Cinema, revolutionary cinema
 #### Monday, September 30: 
 Reading due:
-* Octavio Getino & Fernando Solanas, “Toward a Third Cinema”
-* Frantz Fanon, “On Violence” and “Conclusion,” from _The Wretched of the Earth_
-* Ella Shohat and Robert Stam, “The Third Worldist Film,” from _Unthinking Eurocentrism_
-* Lúcia Nagib, “Towards a Positive Definition of World Cinema” 
+* Octavio Getino & Fernando Solanas, “[Toward a Third Cinema](https://cr.library.utoronto.ca/get/course/532959/hash/i.V3jvBW)”
+* Frantz Fanon, [“On Violence” and “Conclusion,”](https://cr.library.utoronto.ca/get/course/532959/hash/i.f5bJVm) from _The Wretched of the Earth_
+* Ella Shohat and Robert Stam, “[The Third Worldist Film](https://cr.library.utoronto.ca/get/course/532959/hash/i.7NWVPv),” from _Unthinking Eurocentrism_
+* Lúcia Nagib, “[Towards a Positive Definition of World Cinema](https://q.utoronto.ca/files/4271075/download?download_frd=1)” 
 * OH: “New Cinemas in Latin America”
 
 #### Wednesday, October 2: 
@@ -63,11 +62,11 @@ Screening:
 ### Week 6: Fourth Cinema, indigeneity
 #### Monday, October 7:
 Reading due:
-* Barry Barclay, “Celebrating Fourth Cinema”
-* Kerstin Knopf, “The Journals of Knud Rasmussen: Arctic History as Post/Colonial Cinema”
-* Monika Siebert, “_Atanarjuat_ and the Ideological Work of Contemporary Indigenous Filmmaking”
-* Arnold Krupat, “_Atanarjuat, The Fast Runner_ and Its Audiences”
-* Corinn Columpar, Preface and “Speech Acts: Toward a ‘Postcolonial’ Poetics,” from _Unsettling Sights_
+* Barry Barclay, “[Celebrating Fourth Cinema](https://q.utoronto.ca/files/4270831/download?download_frd=1)”
+* Kerstin Knopf, “[The Journals of Knud Rasmussen: Arctic History as Post/Colonial Cinema](https://q.utoronto.ca/files/4270806/download?download_frd=1)”
+* Monika Siebert, “[_Atanarjuat_ and the Ideological Work of Contemporary Indigenous Filmmaking](https://cr.library.utoronto.ca/get/course/532959/hash/i.LwrSjP)”
+* Arnold Krupat, “[_Atanarjuat, The Fast Runner_ and Its Audiences](https://cr.library.utoronto.ca/get/course/532959/hash/i.Q6Gd2C)”
+* Corinn Columpar, [Preface and “Speech Acts: Toward a ‘Postcolonial’ Poetics,”](https://q.utoronto.ca/files/4270816/download?download_frd=1) from _Unsettling Sights_
 
 #### Wednesday, October 9:
 Screening:
@@ -78,7 +77,7 @@ Screening:
 
 #### Wednesday, October 16:
 Reading due:
-* Wayne Booth, et al., “From Topic to Question,” “From Question to Problem,” from _The Craft of Research_.
+* Wayne Booth, et al., [“From Topic to Question,” “From Question to Problem,”](https://q.utoronto.ca/files/4270833/download?download_frd=1) from _The Craft of Research_.
 
 Homework due:
 * Topic/Question/Problem worksheet
