@@ -15,8 +15,8 @@ Screening:
 
 Reading due:
 * Hans-Georg Gadamer, “Aesthetics and Hermeneutics”
-* Vivian Sobchack, “What is Film History?” from Reinventing Film Studies
-* Janet Staiger, “The Future of the Past,” Cinema Journal 44 no. 1 (Fall 2004): 126–29.
+* Vivian Sobchack, “What is Film History?”
+* Janet Staiger, “The Future of the Past”
 
 #### Thursday & Friday, September 12 & 13: First tutorial meetings.
 
@@ -39,7 +39,7 @@ Screening:
 Reading due:
 * Jan Žalman, “Question Marks on the New Czechoslovak Cinema”
 * Jean-Francois Lyotard, “Acinema”
-* Bliss Cua Lim, “Dolls in Fragments: Daisies as Feminist Allegory”
+* Bliss Cua Lim, “Dolls in Fragments: _Daisies_ as Feminist Allegory”
 * OH: “Changing States in East Central Europe”
 
 #### Wednesday, September 25: 
@@ -58,15 +58,15 @@ Reading due:
 #### Wednesday, October 2: 
 Screening:
 * Santiago Alvarez, _Now_ (Cuba, 1965, 5 mins.)
-* Octavio Getino & Fernando Solanas, _Hour of the Furnaces_, part 1: “Neocolonialism and Violence” (_La hora de los hornos_, Argentina, 1968, 90mins.)
+* Octavio Getino & Fernando Solanas, _Hour of the Furnaces_, part 1: “Neocolonialism and Violence” (_La hora de los hornos_, Argentina, 1968, 90 mins.)
 
 ### Week 6: Fourth Cinema, indigeneity
 #### Monday, October 7:
 Reading due:
 * Barry Barclay, “Celebrating Fourth Cinema”
 * Kerstin Knopf, “The Journals of Knud Rasmussen: Arctic History as Post/Colonial Cinema”
-* Monika Siebert, “Atanarjuat and the Ideological Work of Contemporary Indigenous Filmmaking”
-* Arnold Krupat, “Atanarjuat, The Fast Runner and Its Audiences”
+* Monika Siebert, “_Atanarjuat_ and the Ideological Work of Contemporary Indigenous Filmmaking”
+* Arnold Krupat, “_Atanarjuat, The Fast Runner_ and Its Audiences”
 * Corinn Columpar, Preface and “Speech Acts: Toward a ‘Postcolonial’ Poetics,” from _Unsettling Sights_
 
 #### Wednesday, October 9:
@@ -78,7 +78,7 @@ Screening:
 
 #### Wednesday, October 16:
 Reading due:
-* Wayne Booth, et al., “From Topic to Question,” “From Question to Problem,” from The Craft of Research.
+* Wayne Booth, et al., “From Topic to Question,” “From Question to Problem,” from _The Craft of Research_.
 
 Homework due:
 * Topic/Question/Problem worksheet
@@ -106,8 +106,8 @@ Screening:
 * OH: “The New Hollywood” and “Dreams and Nightmares in the Hollywood Blockbuster”
 
 #### Wednesday, October 30: Screening:
-* Jordan Belson, Samahdi (USA, 1967, 6 mins.)
-* Stanley Kubrick, 2001: A Space Odyssey (USA, 1968, 149 mins.)
+* Jordan Belson, _Samahdi_ (USA, 1967, 6 mins.)
+* Stanley Kubrick, _2001: A Space Odyssey_ (USA, 1968, 149 mins.)
 
 ### November 4–8: No meetings; it's Reading Week.
 
@@ -116,15 +116,15 @@ Screening:
 Reading due:
 * Laura Mulvey, “Visual Pleasure and Narrative Cinema”
 * Sigmund Freud, essays: 
-  - “Medusa’s Head,” 
-  - “Some Psychological Consequences of the Anatomical Distinction Between the Sexes,”
-  - “Fetishism,”
+  - “Medusa’s Head” 
+  - “Some Psychological Consequences of the Anatomical Distinction Between the Sexes”
+  - “Fetishism”
   - “The Dissolution of the Oedipus Complex”
 * Damon Young, “The Vicarious Look”
 
 #### Wednesday, November 13: 
 Screening:
-* Alfred Hitchcock, Vertigo (USA, 1958, 128 mins.)
+* Alfred Hitchcock, _Vertigo_ (USA, 1958, 128 mins.)
 
 ### Week 10: Disidentification, or spectatorship
 #### Monday, November 18: 
@@ -180,9 +180,9 @@ Reading due:
 
 #### Wednesday, January 8: 
 Screening: Program of early attractions shorts
-* Ken Jacobs, The Georgetown Loop (USA, 1996, 11 mins.)
-* Ken Jacobs, Capitalism: Slavery (USA, 2007, 3 mins.)
-* Ken Jacobs, Capitalism: Child Labor (USA, 2007, 9 mins.)
+* Ken Jacobs, _The Georgetown Loop_ (USA, 1996, 11 mins.)
+* Ken Jacobs, _Capitalism: Slavery_ (USA, 2007, 3 mins.)
+* Ken Jacobs, _Capitalism: Child Labor_ (USA, 2007, 9 mins.)
 * Program of YouTube “attractions”
 * James J. Hodge, _Touch_ (USA, 2018, 10 mins.)
 
@@ -207,14 +207,14 @@ Homework due:
 ### Week 16: Television, Liveness
 #### Monday, January 27: 
 Reading due:
-* Marshall McLuhan, “The Gadget Lover” (etc.?) from Understanding Media 
+* Marshall McLuhan, “The Gadget Lover” (etc.?) from _Understanding Media_ 
 * Mary Ann Doane, “Information, Crisis, Catastrophe”
 * Jane Feuer, “The Concept of Live Television: Ontology as Ideology”
 * OH: “Television and the Film Industry”
 
 #### Wednesday, January 29: 
 Screening:
-* Marlon Riggs, Tongues Untied (USA, 1989, 55 mins.)
+* Marlon Riggs, _Tongues Untied_ (USA, 1989, 55 mins.)
 * Program of TV news, morning shows, talk shows, etc.
 
 ### Week 17: Video, Art
@@ -276,8 +276,10 @@ Reading due:
 Screening:
 * Karan Johar, _Kabhi Khushi Kabhie Gham..._ (India, 2001, 210 mins.)
 
+_NB: We will not be able to screen all of K3G in our time together in Town Hall. The balance of the film will be shown in tutorials._
+
 Tutorials:
-* ...will continue the screening
+* ...will continue the screening of _K3G_.
 
 ### Week 21: Animation & machine
 #### Monday, March 9: Reading due:
