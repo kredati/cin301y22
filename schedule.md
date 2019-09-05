@@ -59,7 +59,7 @@ Screening:
 * Santiago Alvarez, _Now_ (Cuba, 1965, 5 mins.)
 * Octavio Getino & Fernando Solanas, _Hour of the Furnaces_, part 1: “Neocolonialism and Violence” (_La hora de los hornos_, Argentina, 1968, 90 mins.)
 
-### Week 6: Fourth Cinema, indigeneity
+### Week 5: Fourth Cinema, indigeneity
 #### Monday, October 7:
 Reading due:
 * Barry Barclay, “[Celebrating Fourth Cinema](https://q.utoronto.ca/files/4270831/download?download_frd=1)”
@@ -72,7 +72,7 @@ Reading due:
 Screening:
 * Zacharias Kunuk and Norman Cohn, _The Journals of Knud Rasmussen_ (Canada, 2006, 112 mins.)
 
-### Week 7: Writing workshop the first
+### Week 6: Writing workshop the first
 #### Monday, October 14: Thanksgiving, no class.
 
 #### Wednesday, October 16:
@@ -84,7 +84,7 @@ Homework due:
 
 ## Unit 2: The 70s: Thinking the apparatus
 
-### Week 8: Cinema and/as ideology
+### Week 7: Cinema and/as ideology
 #### Monday, October 21: Reading due:
 * Louis Althusser, “Ideology and Ideological State Apparatuses”
 * Jean-Louis Baudry, “Ideological Effects of the Basic Cinematographic Apparatus”
