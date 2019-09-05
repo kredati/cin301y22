@@ -10,8 +10,8 @@
 
 #### Wednesday, September 11: 
 Screening: 
-* Jorge Fertado, Isle of Flowers (Ilha das Flores, Brazil, 1990, 13 mins.)
-* Martin Arnold, Passage à l’Acte (Austria, 1993, 11 mins.)
+* Jorge Fertado, _Isle of Flowers_ (Ilha das Flores, Brazil, 1990, 13 mins.)
+* Martin Arnold, _Passage à l’Acte_ (Austria, 1993, 11 mins.)
 
 Reading due:
 * Hans-Georg Gadamer, “Aesthetics and Hermeneutics”
