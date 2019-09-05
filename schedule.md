@@ -279,6 +279,7 @@ Screening:
 
 _NB: We will not be able to screen all of K3G in our time together in Town Hall. The balance of the film will be shown in tutorials._
 
+### Thursday, March 5 & Friday, March 6:
 Tutorials:
 * ...will continue the screening of _K3G_.
 
