@@ -47,22 +47,32 @@ This term, you will be assessed in three ways: tutorial questions (10% of your f
 While participation in discussions that take place in tutorials is not evaluated directly, you will be evaluated on your participation in setting the agenda for your tutorial. Each week, the first 5–10 minutes of tutorials (see more on tutorial formats elsewhere) will be dedicated to collecting student questions. There are 22 normal tutorials throughout the year; you are expected to contribute a question in at least 10 of these tutorial sessions. At the end of the year, your TA will tally the number of questions each student has asked. Each student's mark will be percentage of those 10 questions they have asked (with a ceiling of 100%). For example, if you ask 8 questions in the year, you will receive 80%. Note: this is neither a fuzzy participation mark, nor an attendance mark. Please also note: these cannot be made up in any way; you can miss the majority of tutorials and still receive 100%.
 
 #### Papers
-Over the course of the year, you will write four papers, all in the range of 1,500–2,000 words (~5–7 pages). Each is weighted equally. Together they count for 65% of your final mark. Each is thus worth the rather stupidly precise 16.25% of your final mark. Papers will be evaluated by letter grade according to a rubric distributed with the paper prompts. Paper prompts will be distributed at least two weeks in advance of the deadline. The deadlines for papers are as follows:
+Over the course of the year, you will write four papers, all in the range of 1,500–2,000 words (~5–7 pages). Each is weighted equally. Together they count for 65% of your final mark. Each is thus worth the rather stupidly precise 16.25% of your final mark. Papers will be evaluated by letter grade according to a rubric distributed with the paper prompts. Paper prompts will be distributed at least two weeks in advance of the deadline. I will provide the paper prompts from the previous iteration of CIN301. The deadlines for papers are as follows:
 
-* Friday, October 26
-* Thursday, December 6
-* Friday, February 15
-* Friday, March 29
+* Friday, October 25
+* Monday, December 9
+* Friday, February 14
+* Friday, March 27
 
 Each paper is due by 11:59pm on the day it is due. Papers should be uploaded (doc, docx, pages, or rtf) to the Quercus site.
 
-Unexcused late papers will be penalized as follows: for each stepwise 24–hour period a paper is late, equivalent to one plus/minus mark (~3.333...%). That said, see also the accessibility statement.
+Unexcused late submission of papers will be penalized as follows: for each stepwise 24–hour period a paper is late, a penalty equivalent to one plus/minus mark will be applied.
 
 #### Paper revision and resubmission
 Students may, at the end of the year, revise and resubmit one of their papers in light of the comments offered on that paper. I (Scott—and not the TA who originally marked it) will re-mark the paper and revise the mark for that paper. To avail yourself of this opportunity, you must submit, in hard copy (note this is the only assignment offered in hard copy) in the CIN301 drop box in the Cinema Studies Institute: the original paper; the populated marking rubric for the paper; the comments on the paper; a letter detailing the revisions you have made with explanations for each of the major terms of revision; and the revised paper. Revised marks will be assessed by the end of the finals marking period. Please be advised that it is possible, although not likely, that the revised mark will be lower than the originally assessed mark.
 
 #### Final “exam”
 Note the scare quotes: You will write an exam during a formal final exam period, run by the Faculty with invigilators and all that. However, I will make the questions to the exam available to students on the last day of regular class. These will all be essay questions; you will have a choice in which questions you answer. You will not, however, have any materials in front of you when you write the exam. It will be cumulative. Each essay will be marked according to a rubric distributed with the exam questions.
+
+#### Minimum passing requirements
+For all students, please note that the minimum passing requirements for CIN301 are as follows:
+* Both fall term papers must be submitted before our first winter term meeting. That is to say, you must turn in Papers 1 and 2 before noon on Monday, January 6, 2020.
+* Both winter term papers (Papers 3 & 4) must be submitted before the end of the final exam period in April, which is to say, before 11:59pm on Saturday, April 25, 2020.
+* All students must sit the final exam.
+
+Exceptions to these minimum requirements will be made only _in extremis_, with explicit negotiation with Scott well in advance of the relevant dates, and with the involvement of studdent support services (e.g. College Registrars, Accessibility Services, etc.).
+
+Please note that this means that failing to submit any of the four papers will result in an automatic failing mark of 0, regardless of your calculated average. For the purposes of this scheme, I will accept fall term papers before winter term, and winter term papers before the end of the April exam period. Note, however, that with late penalties you may well receive Fs for those papers.
 
 ### Accessibility
 I believe in making learning accessible to all students.
