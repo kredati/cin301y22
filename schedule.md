@@ -25,7 +25,7 @@ Screening:
 Reading due:
 * Susan Sontag, [“Notes on Camp” and “Flaming Creatures,”](https://cr.library.utoronto.ca/get/course/532959/hash/i.TqzG5w) from _Against Interpretation_
 * Ara Osterweil, "[Saint Barbara: The Cinema of Barbara Rubin](https://cr.library.utoronto.ca/get/course/532959/hash/i.rN48JL)," from _Flesh Cinema_
-* OH: “Sex and Sensation,” and “Avant-Garde Film: The Second Wave”
+* Geoffrey Nowell-Smith, _Oxford History of World Cinema_ (Henceforth: OH): “Sex and Sensation,” and “Avant-Garde Film: The Second Wave”
 
 #### Wednesday, September 18: 
 Screening:
