@@ -37,6 +37,16 @@ In addition to the above content-knowledge objectives, this course is organized 
 * question-driven inquiry into the course material, leading with what you don’t know instead of what you do.
 * articulating motivations for written and spoken communication about course material.
 
+### Course materials
+There are three required books for CIN301, all of which I have ordered into the U of T bookstore:
+* Geoffrey Nowell-Smith, _The Oxford History of World Cinema_
+* Stanley Cavell, _The World Viewed_
+* Lucas Hilderbrand, _Paris is Burning: A Queer Film Classic_
+
+Both the Nowell-Smith and the Hilderbrand are available as e-books through the University of Toronto Library. Please note that you nevertheless **must** have the texts with you in class.
+
+The remainder of the readings will be available through our Quercus site. Most of these are through the library e-reserves; some of them are in the `Files > Additional Readings` section of the Quercus site. The schedule has direct links to the readings as an aid, but if you are not already logged into Quercus and the Library e-reserves site, the links will not work. If you are having difficulty accessing readings through the course links, you will need to navigate to the readings directly through Quercus.
+
 ### Course schedule
 [The course schedule is in a separate document.](./schedule.md)
 
