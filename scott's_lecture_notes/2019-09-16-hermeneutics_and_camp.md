@@ -46,8 +46,12 @@ Today, I'll take each in turn.
 * In 1963 we're at the inflection point bt. interiority and structure
 * In art practice across media, the elaboration of techniques to get away from art-as-expression
 * Andy Warhol, _Campbell's Soup Cans_ (1962)
+![Soup Cans](http://www.moma.org/media/W1siZiIsIjMxODI0MiJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=269531510f1f9eb6)
+
 * Rothko, _Untitled_ (1963)
-* John Cage, _4'33"_
+![](https://2.bp.blogspot.com/-Mt6TuU1T5Ws/WErGEgDYMxI/AAAAAAABpg0/Kki-MNvh8fAGZLtNqcPAI_6KS9eTpiTaACLcB/s1600/1963%2BUntitled%2Boil%2Bon%2Bcanvas%2B175%2Bx%2B127%2Bcm%2B%25C2%25A9%2BKate%2BRothko%2BPrizel%2Band%2BChristopher%2BRothko-DACS%2B2016%2B%25C2%25A9%2BKate%2BRothko%2BPrizel%2Band%2BChristopher%2BRothko%253ADACS%2B2016.jpg)
+
+* John Cage, [_4'33"_](https://www.youtube.com/watch?v=JTEFKFiXSx4)
 * What differences do you see between these?
 * Sontag, "Against Interpretation": 14
 * Cage, "Experimental Music": 10, 12
