@@ -49,7 +49,7 @@ Screening:
 #### Monday, September 30: 
 Reading due:
 * Octavio Getino & Fernando Solanas, “[Toward a Third Cinema](https://cr.library.utoronto.ca/get/course/532959/hash/i.V3jvBW)”
-* Frantz Fanon, [“On Violence” and “Conclusion,”](https://cr.library.utoronto.ca/get/course/532959/hash/i.f5bJVm) from _The Wretched of the Earth_
+* Frantz Fanon, [“On Violence” (selections)](https://q.utoronto.ca/courses/114159/files/folder/Additional%20readings?preview=4270812) and [“Conclusion,”](https://q.utoronto.ca/courses/114159/files/folder/Additional%20readings?preview=4270813) from _The Wretched of the Earth_
 * Ella Shohat and Robert Stam, “[The Third Worldist Film](https://cr.library.utoronto.ca/get/course/532959/hash/i.7NWVPv),” from _Unthinking Eurocentrism_
 * Lúcia Nagib, “[Towards a Positive Definition of World Cinema](https://q.utoronto.ca/files/4271075/download?download_frd=1)” 
 * OH: “New Cinemas in Latin America”
