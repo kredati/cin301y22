@@ -17,4 +17,8 @@
 * They are both examples of what Solanas and Gettino call "Third Cinema."
 * What do we mean by Third Cinema? (A _decolonial_ cinema.)
 * And so, let's return to a question we asked last week: what was happening in the world in the 1960s? —A major, important answer: decolonial movements, and (post)colonial wars.
-* Historical context (from separate sheet)
+
+### Historical context
+* US colonialism in Latin and South America: since the 19th c., not direct colonialism (as it is in, say, Algeria or Vietnam)
+* US colonialism, in its pursuit of anticommunism in this period, often deposed or undermined democratically elected or populist revolution leftist governments, e.g. Guatemala (1944–54), Cuba (1953–58), Chile (Allende's election 1970, assassination in 1973).
+* In Argentina, where _Hour of the Furnaces_ was made: 1966 right-wing military coup.
