@@ -98,9 +98,9 @@ Screening:
 
 ### Week 8: Primary cinematic identification, or blockbuster reality
 #### Monday, October 28: Reading due:
-* Jacques Lacan, “The Mirror Stage as Formative of the I Function”
-* Annette Michelson, “Bodies in Space: Film as Carnal Knowledge”
-* Christian Metz, “Identification, Mirror,” “The Passion for Perceiving,” and “Disavowal, Fetishism,” from _The Imaginary Signifier_
+* Jacques Lacan, “[The Mirror Stage as Formative of the I Function](https://cr.library.utoronto.ca/get/course/532959/hash/i.4qwqP3)”
+* Annette Michelson, “[Bodies in Space: Film as Carnal Knowledge](https://q.utoronto.ca/courses/114159/files/folder/Additional%20readings?preview=4813079)”
+* Christian Metz, [“Identification, Mirror,” “The Passion for Perceiving,” and “Disavowal, Fetishism,”](https://cr.library.utoronto.ca/get/course/532959/hash/i.3tdmNb) from _The Imaginary Signifier_
 * OH: “The New Hollywood” and “Dreams and Nightmares in the Hollywood Blockbuster”
 
 #### Wednesday, October 30: Screening:
