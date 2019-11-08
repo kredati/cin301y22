@@ -112,13 +112,13 @@ Screening:
 ### Week 9: Secondary cinematic identification, or passionate detachment
 #### Monday, November 11:
 Reading due:
-* Laura Mulvey, “Visual Pleasure and Narrative Cinema”
-* Sigmund Freud, essays:
+* Laura Mulvey, “[Visual Pleasure and Narrative Cinema](https://cr.library.utoronto.ca/get/course/532959/hash/i.2xXhhG)”
+* Sigmund Freud, [essays](https://cr.library.utoronto.ca/get/course/532959/hash/i.rbtmJF):
   - “Medusa’s Head”
   - “Some Psychological Consequences of the Anatomical Distinction Between the Sexes”
   - “Fetishism”
   - “The Dissolution of the Oedipus Complex”
-* Damon Young, “The Vicarious Look”
+* Damon Young, “[The Vicarious Look](https://search-proquest-com.myaccess.library.utoronto.ca/docview/1707765852/fulltext/7A0A61D0E5AE4406PQ/1?accountid=14771)”
 
 #### Wednesday, November 13:
 Screening:
@@ -127,10 +127,10 @@ Screening:
 ### Week 10: Disidentification, or spectatorship
 #### Monday, November 18:
 Reading due:
-* Frantz Fanon, “The Fact of Blackness,” from _Black Skin, White Masks_
-* Manthia Diawara, “Black Spectatorship: Problems of Identification and Resistance”
-* bell hooks, “The Oppositional Gaze,” from _Black Looks_
-* Elizabeth Reich, “Historicizing and Internationalizing the ‘Baadasssss’,” from _Militant Visions_
+* Frantz Fanon, “[The Fact of Blackness](https://cr.library.utoronto.ca/get/course/532959/hash/i.d3nKH3),” from _Black Skin, White Masks_
+* Manthia Diawara, “[Black Spectatorship: Problems of Identification and Resistance](https://q.utoronto.ca/files/4270822/download?download_frd=1)”
+* bell hooks, “[The Oppositional Gaze](https://q.utoronto.ca/files/4270824/download?download_frd=1),” from _Black Looks_
+* Elizabeth Reich, “[Historicizing and Internationalizing the ‘Baadasssss’](https://cr.library.utoronto.ca/get/course/532959/hash/i.X3tkND),” from _Militant Visions_
 * OH: “The Black Presence in American Cinema”
 
 #### Wednesday, November 20:
@@ -141,8 +141,8 @@ Screening:
 ### Week 11: On being shattered
 #### Monday, November 25:
 Reading due:
-* Leo Bersani, “Is the Rectum a Grave?”
-* Steven Shaviro, “Film Theory and Visual Fascination” from _The Cinematic Body_
+* Leo Bersani, “[Is the Rectum a Grave?](https://www-jstor-org.myaccess.library.utoronto.ca/stable/3397574?pq-origsite=summon&seq=1#metadata_info_tab_contents)”
+* Steven Shaviro, “[Film Theory and Visual Fascination](https://q.utoronto.ca/files/4270805/download?download_frd=1)” from _The Cinematic Body_
 * OH: “Popular Cinema in Hong Kong”
 
 #### Wednesday, November 27:
