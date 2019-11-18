@@ -161,9 +161,11 @@ Homework due:
 
 #### Thursday, December 5, Makeup Monday: No class; work on your papers.
 
-### Thursday, December 5: Paper 2 due at 11:59pm.<br />Blanket extension for the whole class to Monday, December 9, 11:59pm.
+### Thursday, December 5: Paper 2 due at 11:59pm.
 
 #### Thursday & Friday, December 5 & 6: No tutorials; it's Makeup Monday and Reading Day.
+
+#### Sunday, December 15: Paper 2 marking window closes at 11:59pm.
 
 ---
 
@@ -184,6 +186,8 @@ Screening: Program of early attractions shorts
 * Ken Jacobs, _Capitalism: Child Labor_ (USA, 2007, 9 mins.)
 * Program of YouTube “attractions”
 * James J. Hodge, _Touch_ (USA, 2018, 10 mins.)
+
+### Friday, January 10: To receive a passing mark for the course, students must have submitted both papers from fall term by 11:59pm.
 
 ### Week 14: Film, Realism
 #### Monday, January 13:
@@ -249,6 +253,8 @@ Screening: Program of films/videos of early computation:
 ### Friday, February 14: Paper 3 due at 11:59pm.
 
 ### February 17–21: No meetings; it is Reading Week.
+
+#### Monday, February 24: Paper 3 marking window closes at 11:59pm.
 
 ## Unit 4: Cinema, now
 
@@ -317,6 +323,8 @@ Screening:
 * Thompson + Craighead, _Beacon_ (UK, 2005–present)
 
 ### Friday, March 27: Paper 4 due by 11:59pm.
+
+#### Friday, March 27: Paper 4 marking window closes at 11:59pm.
 
 ### Week 24: The end
 #### Monday, March 30:
