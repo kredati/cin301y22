@@ -66,7 +66,7 @@ Over the course of the year, you will write four papers, all in the range of 1,5
 
 Each paper is due by 11:59pm on the day it is due. Papers should be uploaded (doc, docx, pages, or rtf) to the Quercus site.
 
-Unexcused late submission of papers will be penalized as follows: for each stepwise 24–hour period a paper is late, a penalty equivalent to one plus/minus mark will be applied.
+~~Unexcused late submission of papers will be penalized as follows: for each stepwise 24–hour period a paper is late, a penalty equivalent to one plus/minus mark will be applied.~~ Late penalties will not be assessed; see the [Quercus page on the revised late penalties policy](https://q.utoronto.ca/courses/114159/pages/late-penalty-policy-revisions) for more information.
 
 #### Paper revision and resubmission
 Students may, at the end of the year, revise and resubmit one of their papers in light of the comments offered on that paper. I (Scott—and not the TA who originally marked it) will re-mark the paper and revise the mark for that paper. To avail yourself of this opportunity, you must submit, in hard copy (note this is the only assignment offered in hard copy) in the CIN301 drop box in the Cinema Studies Institute: the original paper; the populated marking rubric for the paper; the comments on the paper; a letter detailing the revisions you have made with explanations for each of the major terms of revision; and the revised paper. Revised marks will be assessed by the end of the finals marking period. Please be advised that it is possible, although not likely, that the revised mark will be lower than the originally assessed mark.
@@ -76,7 +76,7 @@ Note the scare quotes: You will write an exam during a formal final exam period,
 
 #### Minimum passing requirements
 For all students, please note that the minimum passing requirements for CIN301 are as follows:
-* Both fall term papers must be submitted before our first winter term meeting. That is to say, you must turn in Papers 1 and 2 before noon on Monday, January 6, 2020.
+* Both fall term papers must be submitted before our first winter term meeting. That is to say, you must turn in Papers 1 and 2 before ~~noon on Monday, January 6, 2020~~ 11:59pm on Friday, January 10, 2020.
 * Both winter term papers (Papers 3 & 4) must be submitted before the end of the final exam period in April, which is to say, before 11:59pm on Saturday, April 25, 2020.
 * All students must sit the final exam.
 
