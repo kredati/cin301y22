@@ -174,10 +174,10 @@ Homework due:
 ### Week 13: The historical (re)turn
 #### Monday, January 6:
 Reading due:
-* Walter Benjamin, “The Work of Art in the Age of its Technological Reproducibility, 2nd Version”
-* Walter Benjamin, “Experience and Poverty”
-* Tom Gunning, “An Aesthetic of Astonishment”
-* James Leo Cahill, “A YouTube Bestiary”
+* Walter Benjamin, “[The Work of Art in the Age of its Technological Reproducibility, 2nd Version](https://cr.library.utoronto.ca/get/course/532959/hash/i.9gt2H8)”
+* Walter Benjamin, “[Experience and Poverty](https://cr.library.utoronto.ca/get/course/532959/hash/i.jFKC54)”
+* Tom Gunning, “[An Aesthetic of Astonishment](https://cr.library.utoronto.ca/get/course/532959/hash/i.jqj8CP)”
+* James Leo Cahill, “[A YouTube Bestiary](https://q.utoronto.ca/files/5625729/download?download_frd=1)”
 
 #### Wednesday, January 8:
 Screening: Program of early attractions shorts
