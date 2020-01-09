@@ -192,7 +192,7 @@ Screening: Program of early attractions shorts
 ### Week 14: Film, Realism
 #### Monday, January 13:
 Reading due:
-* Stanley Cavell, selections TBA from _The World Viewed_
+* Stanley Cavell, chs. 1–3, 10–11, 14–15, 17, & 19 from _The World Viewed_ (do not fret; the chapters are [mostly] short).
 
 ### Wednesday, January 15:
 Screening:
