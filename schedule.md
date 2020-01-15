@@ -202,10 +202,15 @@ Screening:
 #### Monday, January 20:
 Reading due:
 * Wayne Booth, et al., “Revising Style,” from _The Craft of Research_
+* David Foster Wallace, “[Authority and American Usage](https://q.utoronto.ca/files/4270834/download?download_frd=1),” from _Consider the Lobster_
 
 #### Wednesday, January 22:
+In class:
+* Theme & Character workshop
+
+#### In tutorials—Thursday, January 23 & Friday, January 24:
 Homework due:
-* Theme & Character worksheets
+* Theme & Character études
 
 ### Week 16: Television, Liveness
 #### Monday, January 27:
