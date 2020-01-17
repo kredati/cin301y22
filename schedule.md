@@ -201,7 +201,7 @@ Screening:
 ### Week 15: Writing workshop the third
 #### Monday, January 20:
 Reading due:
-* Wayne Booth, et al., “Revising Style,” from _The Craft of Research_
+* Wayne Booth, et al., “[Revising Style](https://q.utoronto.ca/files/5781529/download?download_frd=1),” from _The Craft of Research_
 * David Foster Wallace, “[Authority and American Usage](https://q.utoronto.ca/files/4270834/download?download_frd=1),” from _Consider the Lobster_
 
 #### Wednesday, January 22:
