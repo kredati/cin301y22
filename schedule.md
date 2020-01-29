@@ -215,9 +215,9 @@ Homework due:
 ### Week 16: Television, Liveness
 #### Monday, January 27:
 Reading due:
-* Marshall McLuhan, “The Gadget Lover,” from _Understanding Media_
-* Mary Ann Doane, “Information, Crisis, Catastrophe”
-* Jane Feuer, “The Concept of Live Television: Ontology as Ideology”
+* Marshall McLuhan, “[The Gadget Lover](https://cr.library.utoronto.ca/get/course/532959/hash/i.TdxgK2),” from _Understanding Media_
+* Mary Ann Doane, “[Information, Crisis, Catastrophe](https://cr.library.utoronto.ca/get/course/532959/hash/i.7pBmKk)”
+* Jane Feuer, “[The Concept of Live Television: Ontology as Ideology](https://cr.library.utoronto.ca/get/course/532959/hash/i.ggg7fb)”
 * OH: “Television and the Film Industry”
 
 #### Wednesday, January 29:
@@ -234,8 +234,8 @@ No new reading due, but be sure to complete the reading due for the previous wee
 ### Week 18: Video, Art
 #### Monday, February 10:
 Reading due:
-* Rosalind Krauss, _A Voyage on the North Sea: Art in the Age of the Post-Medium Condition_
-* Kate Mondloch, “Body and Screen,” from _Screens_
+* Rosalind Krauss, [_A Voyage on the North Sea: Art in the Age of the Post-Medium Condition_](https://q.utoronto.ca/files/4270837/download?download_frd=1)
+* Kate Mondloch, “[Body and Screen](https://q.utoronto.ca/files/5919947/download?download_frd=1),” from _Screens_
 
 #### Wednesday, February 12:
 Screening:
@@ -250,9 +250,9 @@ Screening:
 ### Week 19: Computation, Screens
 #### Monday, February 24:
 Reading due:
-* N. Katherine Hayles, “Virtual Bodies and Flickering Signifiers” from _How We Became Posthuman_
-* Wendy Chun, “On Software, or The Persistence of Visual Knowledge”
-* Alexander Galloway, “Language Wants to be Overlooked: On Software and Ideology”
+* N. Katherine Hayles, [“Prologue” and “[Virtual Bodies and Flickering Signifiers”](https://q.utoronto.ca/files/5920031/download?download_frd=1) from _How We Became Posthuman_
+* Wendy Chun, “[On Software, or The Persistence of Visual Knowledge](https://cr.library.utoronto.ca/get/course/532959/hash/i.vfzp8m)”
+* Alexander Galloway, “[Language Wants to be Overlooked: On Software and Ideology](https://cr.library.utoronto.ca/get/course/532959/hash/i.SXvTMx)”
 * Scott Richmond, “Of Mice and Turtles”
 
 ### Monday, February 24: Paper 3 due at 11:59pm.
