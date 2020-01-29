@@ -222,16 +222,22 @@ Reading due:
 
 #### Wednesday, January 29:
 Screening:
-* Marlon Riggs, _Tongues Untied_ (USA, 1989, 55 mins.)
 * Program of TV news, morning shows, talk shows, etc.
 
-### Week 17: Video, Art
+### Week 17: 
 #### Monday, February 3:
+No new reading due, but be sure to complete the reading due for the previous week—and to get a head start on the Krauss for the following week.
+
+#### Wednesday, February 5:
+* Marlon Riggs, _Tongues Untied_ (USA, 1989, 55 mins.)
+
+### Week 18: Video, Art
+#### Monday, February 10:
 Reading due:
 * Rosalind Krauss, _A Voyage on the North Sea: Art in the Age of the Post-Medium Condition_
 * Kate Mondloch, “Body and Screen,” from _Screens_
 
-#### Wednesday, February 5:
+#### Wednesday, February 12:
 Screening:
 * Program of video and performance art, including:
 * Bill Viola, _Lip Synch_ (USA)
@@ -239,15 +245,19 @@ Screening:
 * Nam June Paik, _Television Buddha_ (Korea/Germany)
 * Shirin Neshat, _Turbulent_ (Iran/USA)
 
-### Week 18: Computation, Screens
-#### Monday, February 10:
+### February 17–21: No meetings; it is Reading Week.
+
+### Week 19: Computation, Screens
+#### Monday, February 24:
 Reading due:
 * N. Katherine Hayles, “Virtual Bodies and Flickering Signifiers” from _How We Became Posthuman_
 * Wendy Chun, “On Software, or The Persistence of Visual Knowledge”
 * Alexander Galloway, “Language Wants to be Overlooked: On Software and Ideology”
 * Scott Richmond, “Of Mice and Turtles”
 
-#### Wednesday, February 12:
+### Monday, February 24: Paper 3 due at 11:59pm.
+
+### Wednesday, February 26:
 Screening: Program of films/videos of early computation:
 * Ivan Sutherland, Sketchpad videos
 * Douglas Engelbart, clips from “The Mother of All Demos”
@@ -255,88 +265,77 @@ Screening: Program of films/videos of early computation:
 * Manfred Mohr, _Cubic Limit_ (France, 1973–74, 4 mins.)
 * Peter Foldes, _Hunger_ (Canada, 1974, 11 mins.)
 
-### Friday, February 14: Paper 3 due at 11:59pm.
-
-### February 17–21: No meetings; it is Reading Week.
-
-#### Monday, February 24: Paper 3 marking window closes at 11:59pm.
-
 ## Unit 4: Cinema, now
 
-### Week 19: Historiography & reception
-#### Monday, February 24:
+## Week 20: Historiography & reception
+### Monday, March 2:
 Reading due:
 * bell hooks, “Is Paris Burning?”
 * Judith Butler, “Gender is Burning” from Bodies that Matter
 * Lucas Hilderbrand, pp. 17–88 and 119–46 from _Paris is Burning: A Queer Film Classic_
 * K. Austin Collins, “Paris is Burning is Back—And So is its Baggage,” in _Vanity Fair_
 
-### Wednesday, February 26:
+#### Monday, March 2: Paper 3 marking window closes at 11:59pm. (Note the 7-day marking window.)
+
+### Wednesday, March 4:
 Screening:
 * Jennie Livingston, _Paris is Burning_ (USA, 1991, 78 mins.)
 
-## Week 20: Circulation & globalization
-### Monday, March 2:
+### Week 21: Circulation & globalization
+#### Monday, March 9: Reading due:
 Reading due:
 * Ashish Rajadhyaksha, “The ‘Bollywoodization’ of the Indian Cinema: Cultural Nationalism in a Global Arena”
 * Priya Joshi, “Bollylite in America”
 * OH: “India: Filming the Nation”
 
-### Wednesday, March 4:
+#### Wednesday, March 11:
 Screening:
 * Karan Johar, _Kabhi Khushi Kabhie Gham..._ (India, 2001, 210 mins.)
 
 _NB: We will not be able to screen all of K3G in our time together in Town Hall. The balance of the film will be shown in tutorials._
 
-### Thursday, March 5 & Friday, March 6:
+### Thursday, March 12 & Friday, March 13:
 Tutorials:
 * ...will continue the screening of _K3G_.
 
-### Week 21: Animation & machine
-#### Monday, March 9: Reading due:
+### Week 22: Animation & machine
+#### Monday, March 16:
 * Tom Lamarre, “The Anime Machine,” from _The Anime Machine_
 * Marc Steinberg, “Limiting Movement, Inventing Anime,” from _Anime’s Media Mix_
 * OH: “The Modernization of Japanese Film”
 
-#### Wednesday, March 11:
+#### Wednesday, March 18:
 Screening:
 * Katsuhiro Otomo, _Akira_ (アキラ, Japan, 1988, 124 mins.)
 
-### Week 22: Phenomenology & description
-#### Monday, March 16:
+### Week 23: Phenomenology & description
+#### Monday, March 23:
 Reading due:
 * Susan Sontag, “Against Interpretation”
 * Vivian Sobchack, “What My Fingers Knew”
 * Bruno Latour, “Why Has Critique Run Out of Steam?”
 
-#### Wednesday, March 18:
+#### Wednesday, March 25:
 Screening:
 * Luca Guadignino, _I am Love_ (_Io sono l'amore_, Italy, 2009, 114 mins.)
 
-### Week 23: Networked life
-#### Monday, March 23:
+### Week 24: Networked life
+#### Monday, March 30:
 Reading due:
 * Julian Dibbel, “A Rape in Cyberspace”
 * Alexander Galloway, “Networks”
 * Kris Cohen, “Search Engine Subjectivities” from _Never Alone Except for Now_
 * Anna Watkins Fisher, “User be Used”
 
-#### Wednesday, March 25:
+#### Wednesday, April 1:
 Screening:
 * Lernert Engelberts and Sander Plug, _I Love Alaska_ (Netherlands, 2009, 55 mins.)
 * Frances Stark, _My Best Thing_ (USA, 2011, excerpts)
 * Thompson + Craighead, _Beacon_ (UK, 2005–present)
 
-### Friday, March 27: Paper 4 due by 11:59pm.
+### Wednesday, April 1: Paper 4 due by 11:59pm.
 
-#### Friday, March 27: Paper 4 marking window closes at 11:59pm.
-
-### Week 24: The end
-#### Monday, March 30:
-No reading due. Scott offers a conclusion to the course and a review for the final exam.
-
-#### Wednesday, April 1:No class.
-Scott (& many TAs) will be out of town for SCMS.
+#### Wednesday, April 1: Paper 4 marking window closes at 11:59pm. (NB: to ensure they receive a mark before the final exam, students must submit this paper on time. Also: to receive written feedback on this paper, students must request that feedback by indicating that in a "submission comment" with their Quercus paper submission.)
 
 #### April 2 & 3: No tutorials.
 
