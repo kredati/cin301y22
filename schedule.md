@@ -250,10 +250,10 @@ Screening:
 ### Week 19: Computation, Screens
 #### Monday, February 24:
 Reading due:
-* N. Katherine Hayles, [“Prologue” and “[Virtual Bodies and Flickering Signifiers”](https://q.utoronto.ca/files/5920031/download?download_frd=1) from _How We Became Posthuman_
+* N. Katherine Hayles, [“Prologue” and “Virtual Bodies and Flickering Signifiers”](https://q.utoronto.ca/files/5920031/download?download_frd=1) from _How We Became Posthuman_
 * Wendy Chun, “[On Software, or The Persistence of Visual Knowledge](https://cr.library.utoronto.ca/get/course/532959/hash/i.vfzp8m)”
 * Alexander Galloway, “[Language Wants to be Overlooked: On Software and Ideology](https://cr.library.utoronto.ca/get/course/532959/hash/i.SXvTMx)”
-* Scott Richmond, “Of Mice and Turtles”
+* Scott Richmond, “[Of Mice and Turtles](https://medium.com/thinking-with-computers/of-mice-and-turtles-cc64934ff0d2)”
 
 ### Monday, February 24: Paper 3 due at 11:59pm.
 
