@@ -270,10 +270,10 @@ Screening: Program of films/videos of early computation:
 ## Week 20: Historiography & reception
 ### Monday, March 2:
 Reading due:
-* bell hooks, “Is Paris Burning?”
-* Judith Butler, “Gender is Burning” from Bodies that Matter
+* bell hooks, “[Is Paris Burning?](https://q.utoronto.ca/files/4270845/download?download_frd=1)”
+* Judith Butler, “[Gender is Burning](https://q.utoronto.ca/files/4270844/download?download_frd=1)” from Bodies that Matter
 * Lucas Hilderbrand, pp. 17–88 and 119–46 from _Paris is Burning: A Queer Film Classic_
-* K. Austin Collins, “Paris is Burning is Back—And So is its Baggage,” in _Vanity Fair_
+* K. Austin Collins, “[Paris is Burning is Back—And So is its Baggage](https://www.vanityfair.com/hollywood/2019/06/paris-is-burning-documentary-drag-jennie-livingston-interview),” in _Vanity Fair_
 
 #### Monday, March 2: Paper 3 marking window closes at 11:59pm. (Note the 7-day marking window.)
 
