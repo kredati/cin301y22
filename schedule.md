@@ -284,8 +284,8 @@ Screening:
 ### Week 21: Circulation & globalization
 #### Monday, March 9: Reading due:
 Reading due:
-* Ashish Rajadhyaksha, “The ‘Bollywoodization’ of the Indian Cinema: Cultural Nationalism in a Global Arena”
-* Priya Joshi, “Bollylite in America”
+* Ashish Rajadhyaksha, “[The ‘Bollywoodization’ of the Indian Cinema: Cultural Nationalism in a Global Arena](https://journals-scholarsportal-info.myaccess.library.utoronto.ca/details/14649373/v04i0001/25_toticcniaga.xml)”
+* Priya Joshi, “[Bollylite in America](https://journals-scholarsportal-info.myaccess.library.utoronto.ca/details/14746689/v08i0003/245_bia.xml)”
 * OH: “India: Filming the Nation”
 
 #### Wednesday, March 11:
