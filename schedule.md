@@ -290,13 +290,15 @@ Reading due:
 
 #### Wednesday, March 11:
 Screening:
-* Karan Johar, _Kabhi Khushi Kabhie Gham..._ (India, 2001, 210 mins.)
+* Karan Johar, _Kabhi Khushi Kabhie Gham..._ (India, 2001, 210 mins.) _Available on Amazon Prime._
 
 _NB: We will not be able to screen all of K3G in our time together in Town Hall. The balance of the film will be shown in tutorials._
 
 ### Thursday, March 12 & Friday, March 13:
 Tutorials:
 * ...will continue the screening of _K3G_.
+
+### Weeks 22, 23, and 24 are, due to U of T's COVID-19 social distancing responses, now considered "Optional Enrichment" material. Please feel free to engage online as much as you'd like, but the assessments for the course will not in any way require you to address this material.
 
 ### Week 22: Animation & machine
 #### Monday, March 16:
@@ -306,7 +308,8 @@ Tutorials:
 
 #### Wednesday, March 18:
 Screening:
-* Katsuhiro Otomo, _Akira_ (アキラ, Japan, 1988, 124 mins.)
+* ~~Katsuhiro Otomo, _Akira_ (アキラ, Japan, 1988, 124 mins.)~~
+* Mamoru Oshii, _Ghost in the Shell_ (Japan, 1995, 83 mins.) _Available to rent on iTunes._
 
 ### Week 23: Phenomenology & description
 #### Monday, March 23:
@@ -317,7 +320,7 @@ Reading due:
 
 #### Wednesday, March 25:
 Screening:
-* Luca Guadignino, _I am Love_ (_Io sono l'amore_, Italy, 2009, 114 mins.)
+* Luca Guadignino, _I am Love_ (_Io sono l'amore_, Italy, 2009, 114 mins.) _Available to rent on iTunes._
 
 ### Week 24: Networked life
 #### Monday, March 30:
@@ -329,9 +332,12 @@ Reading due:
 
 #### Wednesday, April 1:
 Screening:
-* Lernert Engelberts and Sander Plug, _I Love Alaska_ (Netherlands, 2009, 55 mins.)
-* Frances Stark, _My Best Thing_ (USA, 2011, excerpts)
-* Thompson + Craighead, _Beacon_ (UK, 2005–present)
+* Lernert Engelberts and Sander Plug, _I Love Alaska_ (Netherlands, 2009, 55 mins.) _Available [on YouTube](https://www.youtube.com/playlist?list=PL66D276282DFDA6A5)._ 
+* ~~Frances Stark, _My Best Thing_ (USA, 2011, excerpts)~~
+* Miranda July, _Somebody_ (USA, 2015, 10 mins.) _Available [on YouTube](https://www.youtube.com/watch?v=iz13HMsvb6o)._
+* Thompson + Craighead, _Beacon_ (UK, 2005–present). _Available at: http://automatedbeacon.net.
+
+### Below here, everything is still technically as stated. That said, it is open to negotiation and improvisation, depending on how events develop in response to the development of the COVID-19 pandemic and U of T's response.
 
 ### Wednesday, April 1: Paper 4 due by 11:59pm.
 
