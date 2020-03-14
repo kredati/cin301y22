@@ -300,8 +300,8 @@ Tutorials:
 
 ### Week 22: Animation & machine
 #### Monday, March 16:
-* Tom Lamarre, “The Anime Machine,” from _The Anime Machine_
-* Marc Steinberg, “Limiting Movement, Inventing Anime,” from _Anime’s Media Mix_
+* Tom Lamarre, “[The Anime Machine](https://q.utoronto.ca/files/4270847/download?download_frd=1),” from _The Anime Machine_ (NB: The PDF includes this introduction as well as three subsequent chapters. The chapters are recommended, but not required reading. Only the introduction is required.)
+* Marc Steinberg, “[Limiting Movement, Inventing Anime](https://q.utoronto.ca/files/4270848/download?download_frd=1),” from _Anime’s Media Mix_
 * OH: “The Modernization of Japanese Film”
 
 #### Wednesday, March 18:
@@ -311,9 +311,9 @@ Screening:
 ### Week 23: Phenomenology & description
 #### Monday, March 23:
 Reading due:
-* Susan Sontag, “Against Interpretation”
-* Vivian Sobchack, “What My Fingers Knew”
-* Bruno Latour, “Why Has Critique Run Out of Steam?”
+* Susan Sontag, “[Against Interpretation](https://cr.library.utoronto.ca/get/course/532959/hash/i.TqzG5w)”
+* Vivian Sobchack, “[What My Fingers Knew](https://q.utoronto.ca/files/6484231/download?download_frd=1)”
+* Bruno Latour, “[Why Has Critique Run Out of Steam?](https://www-jstor-org.myaccess.library.utoronto.ca/stable/10.1086/421123?pq-origsite=summon&seq=1#metadata_info_tab_contents)”
 
 #### Wednesday, March 25:
 Screening:
@@ -322,10 +322,10 @@ Screening:
 ### Week 24: Networked life
 #### Monday, March 30:
 Reading due:
-* Julian Dibbel, “A Rape in Cyberspace”
-* Alexander Galloway, “Networks”
-* Kris Cohen, “Search Engine Subjectivities” from _Never Alone Except for Now_
-* Anna Watkins Fisher, “User be Used”
+* Julian Dibbel, “[A Rape in Cyberspace](https://cr.library.utoronto.ca/get/course/532959/hash/i.sQwzMC)”
+* Alexander Galloway, “[Networks](https://cr.library.utoronto.ca/get/course/532959/hash/i.KvnfHD)”
+* Kris Cohen, “[Search Engine Subjectivities](https://q.utoronto.ca/files/6484254/download?download_frd=1)” from _Never Alone Except for Now_
+* Anna Watkins Fisher, “[User be Used](https://www-jstor-org.myaccess.library.utoronto.ca/stable/10.13110/discourse.36.3.0383?pq-origsite=summon#metadata_info_tab_contents)”
 
 #### Wednesday, April 1:
 Screening:
