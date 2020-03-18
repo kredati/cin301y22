@@ -11,6 +11,8 @@ Scott is proposing changes to CIN301 that require a student vote.
 
 That said, please do read this whole document as carefully as you can. Or: [skip to the detailed changes affecting marks](#proposed-changes).
 
+Edited to add: 51 students (more than a majority of the enroled 96) have voted, every one in favour of the proposed changes. The ayes have it. **The proposed changes to CIN301 have been approved, and are now in effect.** Thank you to everybody who has voted, and quickly. I will leave the vote open through March 24, and will continue to collect and consult the feedback in the second, open-ended question.
+
 ### Preamble
 The principles behind this revision are simple: we are aiming to meet the [course objectives](https://github.com/kredati/cin301y19/blob/master/syllabus.md#course-description) while providing as much flexibility in coursework as we can. People are in a variety of different situations, both academically and personally. Your TAs and I have devised a revision to the coursework and marking scheme that continues academic integrity while also providing for flexibility.
 
@@ -41,7 +43,9 @@ Anything related to our assignments or changes to the marking scheme---and, well
 ### Voting on changes
 U of T stipulates that changes to the marking scheme must be approved by a vote of the students, with at least a week to consider the changes. This document outlines the proposed changes. The vote will remain open between noon on Monday, March 16, through Tuesday, March March 24. Please vote if you can.
 
-The vote for the changes detailed below is open at https://q.utoronto.ca/courses/114159/quizzes/62095. It will remain open until 11:59pm (EDT) on Tuesday, April 24. A majority vote of the students voting will carry; there are no quorum requirements. That said, **_please, please vote_**.
+The vote for the changes detailed below is open at https://q.utoronto.ca/courses/114159/quizzes/62095. It will remain open until 11:59pm (EDT) on Tuesday, April 24. A majority vote of the students voting will carry; there are no quorum requirements. That said, **_please, please vote_**. 
+
+Edited to add: the vote is still open, but a majority of students in CIN301 have already voted in favour of the proposed changes below. You may still submit both a vote, until 11:59pm on March 24, and also fill out the open-ended question of what you'd like to tell Scott anonymously.
 
 ### Changes to instruction
 These changes do not require action on your part. Instruction is now entirely optional, online, asyncrhonous, and text-based. The balance of the course material is enrichment to the 21 weeks we had together before the pandemic. That said, for students wanting to engage course material, here is what you can expect:
@@ -54,7 +58,7 @@ These changes do not require action on your part. Instruction is now entirely op
 * Any questions about the logistics of online instruction can be addressed to https://q.utoronto.ca/courses/114159/discussion_topics/558495.
 
 ### Changes to marking
-#### Status quo ante: what we are (hopefully) dispensing with
+#### Status quo ante: what we ~~are (hopefully) dispensing~~ have dispensed with with
 The current marking scheme is detailed in our [syllabus](./syllabus.md). That said, here's the breakdown:
 * 25% final exam.
 * 65% four papers, each worth 16.25%.
@@ -72,11 +76,13 @@ The current schedule is also detailed in our syllabus:
 * To receive comments on any papers submitted after March 2, students must request those comments in a "submission comment" in Quercus when they turn their papers in.
 * I reserve the right to introduce a correction of some kind---on assignments, on grades as a whole---to ensure the median mark for CIN301 is fair, especially under the circumstances. This correction will only ever work in students' favor; I will _never_ curve grades downward.
 
-#### Proposed changes
+#### ~~Proposed c~~ Changes now in effect
 ##### Changes to marking scheme
 **_Please vote to approve, or not, these changes [here](https://q.utoronto.ca/courses/114159/quizzes/62095) by 11:59pm on Tuesday, April 24._**
 
 _Questions about the below should be posted to [our discussion board dedicated to assignment logistics](https://q.utoronto.ca/courses/114159/discussion_topics/558490)._
+
+Edited to add: the vote is positive; the changes below are now in effect. That said, you may still submit your votes (including anything anonymous you'd like to communicate to Scott) until 11:59pm on March 24. The discussion board remains open to ask questions or address issues with the proposed changes.
 
 * The final exam, originaly worth 25% of your final mark, is canceled.
 * The four papers, taken together, are now worth 90% of your final mark. Of that 90%, here is the breakdown:
