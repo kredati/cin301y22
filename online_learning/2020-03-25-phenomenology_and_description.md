@@ -69,3 +69,25 @@ To this account, I want to add a few specific notes to Sobchack's particular acc
   * There are important differences! But this idea of regression is a common thread. Much of what Sobchack does with phenomenology is to rework apparatus and psychoanalytic theory term-by-term, with different emphases and specifics.
   
 Ultimately, Sobchack's most important innovation is to insert into film theory a dedication to the description of first-person experience: her ultimate target is to describe, and to explain, "what her fingers knew"--her experience, that is, in the opening moments of Campion's _The Piano_. She will go on to talk about meaning (meaning for her is always sensually embodied, and sensual embodiment is always a kind of meaning), and will absolutely use theory that does not belong to her first-person experience. But: both the ground and the target of the theorizing will always be first-person experience, described as closely as possible. (Those of you paying particular attention at home will notice the resemblance between Sobchack's procedure and Gadamer's hermeneutics; that is because Gadamer's hermeneutics is a form of phenomenology.)
+
+### Latour: Matters of concern
+I will try not to go into too much detail with the Latour. He's from a substantially different discipline, science and technology studies. But the problem he outlines is absolutely salient to film theory and media studies more broadly. For decades, we built a progressive/left politics based in critique--that is, in the hermeneutics of suspicion or paranoid reading. We located our politics in practices of reading that went looking for hidden meaning: in fact, the politics of (say) _Vertigo_ were entirely about the hidden meaning that psychoanalysis uncovered.
+
+But politicized suspicion/paranoia aren't inherently progressive! As it turns out, there are plenty of right-wing versions of this. (Latour's example: climate denialism; but we could also see the insistence, on the part of some right-wing figures, until about a week ago, that Covid-19 was a hoax cooked up by the democrats to hurt President Trump.)
+
+So what Latour is trying to do is articulate an alternative to critique that doesn't naively insist "facts are facts." In our case: not simply to take a film's word for it, not to give up on criticism.
+
+It suffices to say for our purposes that Sontag's and Sobchack's procedures for criticism--that is, an emphasis on description--is a working cognate to Latour's "matters of concern."
+
+One thing that's important to note about Sontag & Sobchack is that they both insist that experience, even though it's not hidden and does not need interpretation to make it manifest, is still not exatly easy to describe. Staying with sensuous intensity and discovering how to make it available to others is _hard work_. And, discovering how to make such sensuous intensity salient to others is also a problem: how can I get you to care about what I experience? And this is where we see the proximity of description and "matters of concern": the task is to render our experience in ways that we can care about that experience together, in common.
+
+### _I Am Love_
+I haven't talked very much about _I Am Love_, which is sincerely one of my very favorite films. If you haven't watched it, please do. It's ravishing.
+
+The thing I want to insist on in this film is that the film is doing something like the work of phenomenological description: it is making Tilda Swinton's (Emma/Kittesh's) sensuous responses a matter of our concern--it does the work of sharing her experience, albeit in a mediated way. It confuses the senses--vision and hearing become proxies for taste and touch--in exactly the ways Sobchack outlines. And it demands an intense awareness of the sensual beauty of each of its images: bugs on grass in fields, the domestic architecture of midcentury luxury, the smell of rain on concrete, &c.
+
+That's not to say there isn't meaning in _I Am Love_, it's just that whatever meaning you want to draw from it must start from its orchestration of ongoing sensual intensity. 
+
+(In this, it is not so different from the more famous Guadanigno film, _Call Me by Your Name_--although the grounding of that beauty in the body of a beautifully suffering queer is profoundly homophobic, as is the pleasure so many people drew from seeing Timmy Chalamet stare, despondent but resplendent, into a fire at Channukah. But this is just a small part of a whole argument I have about _CMBYN_, which is informed by D.A. Miller's [wonderful and angry essay about the film](https://lareviewofbooks.org/article/elios-education/).)
+
+I think I've rambled long enough for now. You can, of course, ask me about anything here, or anywhere in the reading, [on our discussion board](https://q.utoronto.ca/courses/114159/discussion_topics/593218).
