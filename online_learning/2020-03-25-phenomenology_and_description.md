@@ -25,3 +25,24 @@ Phenomenology, and description, are important critical and intellectual response
 These positions--advocating for description & phenomenology--are, in important ways, consonant with the project of aesthetic criticism in Cavell. The primary activity that Cavell & Sontag & Sobchack want us to engage in is: describe an experience so fully that your reader can share in it.
 
 So, let's take these positions in turn: what they don't like about interpretation/suspicion/paranoia, and what they propose in their stead.
+
+### Susan Sontag: Against Interpretation
+This is one of the more important essays written in American aesthetic theory. It is of a piece with "Notes on Camp," which you'll remember from September. Sontag was queer, if closeted, and her gloss on camp's sensibility of attending to the artifice of things, or of things as artifice, is an iteration of a more general project of attending more closely to the surfaces of things--and of art.
+
+The most important slogan here is: "In place of a hermeneutics we need an erotics of art" (14). By this she means: a critical practice that does not search for meaning, but rather intensifies the sensuous impact of the work of art as much as possible.
+
+This slogan immediately follows a passage that pulls everything in this essay together: "What is important right now is to recover our senses. We must learn to to _see_ more, to _hear_ more, to _feel_ more.... The function of criticism is to show _how it is what it is_, even _that it is what it is_, rather than to show _what it means_" (14).
+
+The idea here is that Sontag is calling for a critical practice that searches not for the meaning of the work, but for a way to express the _feeling_ the work gives. We could call the target the sensuous or erotic impact of the work.
+
+Think here about the ways in which _I Am Love_ makes literal erotic sensual intensification continuous with other forms of sensuality: the taste of food, the contact between bodies, the beauty of architecture.
+
+Sontag doesn't call it this, but for our purposes: the critical practice Sontag calls for is a kind of _description_.
+
+Sontag's distaste for interpretation isn't a rejection of meaning, quite. Certainly not a reject of meaning for all people at all times in front of all works of art. Rather, for her, we have (already in 1964!) gotten too comfortable with interpretation, of substituting our experience of an encounter with a work of art, with an elaboration of the meaning of a work. Interpretation takes us away from from the work; interpretation is "the revenge of the intellect upon the world" (7)--and the work. Intellect stands itself up as the only faculty capable of really reckoning with the world.
+
+So Sontag doesn't deny that there are works of art that call out for interpretation, that invite the discovery or elaboration of a hidden meaning. She thinks those works aren't vital, or important. And she doesn't deny that interpretation can be profitably practiced on many works of art (although abstract work--like Barnett Newman's paintings or John Whitney's films--pretty successfully resist meaning).
+
+Instead, she's making a local value judgment: we moderns suffer from the hypertrophe of the intellect. We do too much interpretation, and not enough _feeling_. The critic's task, now, should be to inflame feeling, to elaborate and intensify our capacity to come alive to the sensuous intensity of the world.
+
+In other words, to follow in Tilda Swinton's footsteps in _I Am Love_.
