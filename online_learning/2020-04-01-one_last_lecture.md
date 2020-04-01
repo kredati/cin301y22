@@ -49,3 +49,11 @@ There are a two aspects I want to draw out here:
 
 In various ways, the Cohen and the Fisher are responses to this particular impasse that Galloway ends with.
 
+### Cohen, "Search Engine Subjectivities"
+Cohen's primary target in this chapter--from his truly wonderful book, _Never Alone Except for Now_, which is to my mind the best work of media theory of the past five years--is the ways that search engines address us. He's an art historian by training, so he uses Thompson+Craighead's work _[Beacon](http://automatedbeacon.net)_ to unpack some of that.
+
+For him, a "person" online--as addressed but also made up by search engines and other algorithmic advertising media--is not a psychologically or psychically integrated individual, but rather _a cluster of aggregated data_. 
+
+This tracks a famous distinction from Gilles Deleuze, which comes in his very short "Postscript on Societies of Control," between the _individual_ and the _dividual_. An individual, etymologically, cannot be divided. The dividual, on the other hand, can be endlessly divided. Individuals persist over time with an identity, a single body, a psyche. Dvidiuals on the other hand, are clusters of data: able to be aggregated or disaggregated, subject to statistical manipulation. This essay is only 6 pages long, but it has been the governing essay for politically engaged digital media theory. And what, exactly, a dividual is has been the object of many exegeses and debates on the part of media theory people.
+
+To understand Cohen's work, though, don't really need to understand what Deleuze means by the dividual. What we need to understand is: the conditions of contemporary life--technologically, but also politically--have changed so much that a whole new form of person comes into being: the dividual, or computational personhood.
