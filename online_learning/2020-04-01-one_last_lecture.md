@@ -28,3 +28,24 @@ The most important thing to understand about the material this week is really th
 
 The second most important thing to understand about the material this week is that it has a story about how computational media address us that is decisively different than film theory's story about how films address us.
 
+### Galloway, "Networks"
+This is a difficult piece; I'm sorry for that. But it has a few important moments that I want us to learn from.
+
+The most important such momment comes at the bottom of 290, onto 291: "a new model of reading will have to be explored, one that is not hermeneutic in nature but instead based on cybernetic parsing, scanning, rearranging, filtering, and interpolating. This new model will need to be based on an immanent or machinic notion of software. The question is not simply _logos_ (discourse) but _ergon_ (work). Networks are not simply textual entities, they are entities in a constant labor with themselves."
+
+This should remind you of last week's reading on description: it is a call to move away from a reading practice concerned with _meaning_. In place of the phenomenologist's insistence on beginning with a first-person account, however, Galloway wants us to move away from meaning to be able to focus on _work_.
+
+The question for networked media, for Galloway, is not _What does it mean?_, but rather: _What does it do? How does it work?_
+
+I have some reservations about attending too much to the internal or technical operation of computational media. There's an ideologeme according to which you can't understand the work of digital media at a human level unless you also understand the operations of voltages, chips, cables, and code. As an erstwhile computer science major and somebody who writes a fair amount of code for my research, I really don't trust the priesthood of the coders to explain the operation of digital media to us.
+
+That said, I do think that it's worth taking seriously the idea that computational media address us in ways that are not representational, and not organized by meaning.
+
+The other aspect of Galloway's essay that I want to emphasize is the way his piece basically ends with a shrug. 294: "A new exploit is necessary, one that is as asymmetrical in relationship to distributed networks as the distributed network was to the power centers of modernity.... But this new exploit is never outside the network, is always formally within it..." He goes on to describe worms and viruses. But these do not an adequate political response make! "These techniques are not yet fully formed and in many cases are politically naïve if not retrograde." Basically, viruses are not a viable response.
+
+There are a two aspects I want to draw out here:
+* For Galloway, because the politics here isn't about _meaning_, the old political verities of modernism are no longer salient. In other words, critical theory is really good at working with meaning; it is less good at working with operation. But we need to learn how to think and work with non-representational media and how it operates beside or below meaning.
+* But also: we don't yet have a sense of the political forms that will be adequate to the current moment. If ever the apparatus theory version of critique were adequate, it sure isn't anymore. The work is to develop an understanding of new forms of political analysis and response. (This should remind you of the Latour piece from last week.)
+
+In various ways, the Cohen and the Fisher are responses to this particular impasse that Galloway ends with.
+
