@@ -1,5 +1,5 @@
-# CIN301: A final lecture
-## Networked life, and the course as a whole
+# CIN301: A penultimate lecture
+## Networked life
 
 ### Logistics
 * Just a friendly reminder that all our policy updates are collected in a single-source-of-truth document, [Covid-19 Revisions](https://github.com/kredati/cin301y19/blob/master/covid-19_revisions.md). If you have any policy or logistical questions that need answering, consult that document first.
@@ -91,3 +91,11 @@ And, perhaps more to the point, the practices that Fisher points to aren't virus
 ---
 
 All of this really is to say, I really don't know what an adequate politics of the network would be. It's one of the things that I'm working on in my research. I do know that I despair when I think of working on the network as a whole. One of the resources I find in Fisher is a reorientation away from a politics in the large and towards a politics in the small that may not feel like it addresses all the terrible things happening in the world. But it can address, maybe, one or two of those things.
+
+### "A Rape in Cyberspace," _I Love Alaska_, _Somebody_, _Beacon_
+These works, in their ways, I deal with the impersonal, dividual address of networks. They're all delightful. I think the Dibbell is perhaps the most interesting for the forgeoing considerations, in that we very frequently mistake actors in networks to be people, or individuals. But that's often not the case! Despite Facebook's attempts to enforce single, "correct" identities for its users. _Somebody_ shows how the network address passes through identity and can reach through any-body-whatever. _I Love Alaska_ shows the profound partiality of a network's view of a person--and shows also how, when presented in human terms, still plays out as meaning, as narrative, as individuality. Cohen's reading of _Beacon_ is subtle and profound, but it is another way of giving us a network's-view of a person, while then also frustrating whatever tendencies towards individuality and meaning we may experience with _I Love Alaska_.
+
+We need ways of seeing like a network. We don't have them, not really, not yet. These works are a start.
+
+### Conclusion
+I originally was going to write my gloss in CIN301 here. I am going to put it in [a seprate document](./2020-04-01-the_course.md).
