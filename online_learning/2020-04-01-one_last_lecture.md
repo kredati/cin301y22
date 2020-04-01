@@ -70,3 +70,24 @@ For Cohen, dividuality hasn't replaced individuality. Instead, life online is ma
 
 And so Cohen's figure of parrallelism: politics, and everyday life, now operate in two domains, which don't actually touch one another. And the political genres and analyses and programs we developed to deal with individuality, and meaning--and movies--do not reach the operation of algorithms and networks.
 
+Cohen, 125:
+> BEACON takes its referent, the search engine, and reverses its logic, introducing shards of defamiliarizing experience (by offering not the results but the queries; not our own, but an- other’s), as well as a kind of economic détournement whereby the opera- tive economic logics of search engines are literally bracketed out of the work: there are no ads, and we cannot make anything out of the results we see streaming past us, cannot add them up into a database, cannot mobilize and monetize that database toward the description of peoples, toward the subtle shaping of their persons. The avant-garde logic here would be that of the strikethrough: that which is undone by the artwork remains in the frame, only to be X’ed out, negated, rendered inoperative. The pedagogical lesson then adheres in the ongoing presence of that which is undone. This is a representational operation. It acquires its optimism only in the degree to which one is able to imagine that search engines’ most robust existence is in the mind of the user, as ideology. As such, the avant-garde procedure, in negating the ideology of search engines while showing us the devious persistence of that ideology, can goad us to think differently, and maybe teach us how to think differently, to make better representations and act on those instead.
+
+But search engines _actually work_: they are not in the mind of a user. Not _logos_, but _ergon_.
+
+### Fisher, "User Be Used"
+Both Cohen and Galloway ultimately give us impasses: we do not yet know the genres of politics that could reach the operation of the computational networks that articulate our lives, that have material consequences, but address us outside or beyond or below our existence as individuals.
+
+Fisher's lesson--an important one--is that there really are responses: those of the _parasite_. (She has a book forthcoming that argues this.)
+
+Networks are necessarily hospitable: they are open to all who come. And, effectively, the logic of resistence here is for us to be bad guests. The worst guests possible. (One example: Occupy, from 2011. Very bad guests indeed.)
+
+I don't find Fisher's prescriptions to be fully convincing--they still often are organized by a logic of disclosure: the parasite gives the lie to the host's openness, and thus we see how contemporary networks are bad. And once we see that... what?
+
+But I think the biggest lesson she has is not for a particular politics, but rather a reorganization of the scale of politics. We're all already complicit in the operation of networked technologies, we are all always already dividuals, addressed in ways we don't understand by technologies we can't see. The important thing is not to recognize that, or to understand it, or even to critique that, but rather to engage in practices that disrupt some of that operation. It's the same thing Galloway argues, basically, but with a twist: our responses don't need to take down a whole system. We can't get outside of intensively computational neoliberal capitalism (my preferred abstraction cluster to name the present), but we can behave in ways that make its continued operation a little less frictionless. That's all we've got, but it's not nothing. 
+
+And, perhaps more to the point, the practices that Fisher points to aren't viruses or worms, but rather artistic, activist, and conceptual practices that may or may not be especially computational. _Amazon Noir_ has a computational element, to be sure, but it's more about interrupting (in an admittedly small way!) the operation of a corporation that sees its customers as dividuals.
+
+---
+
+All of this really is to say, I really don't know what an adequate politics of the network would be. It's one of the things that I'm working on in my research. I do know that I despair when I think of working on the network as a whole. One of the resources I find in Fisher is a reorientation away from a politics in the large and towards a politics in the small that may not feel like it addresses all the terrible things happening in the world. But it can address, maybe, one or two of those things.
