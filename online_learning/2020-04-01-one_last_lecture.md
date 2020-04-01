@@ -14,3 +14,17 @@
 * I will be holding regular office hours next week, on Tuesday, April 7. Book an appointment, as usual, at https://calendly.com/s-richmond/officehours. After that, I will definitely be available for any kind of meeting; just email me and set up an appointment. Office hours and other appointments will be norally be conducted on video chat, by Skype; but I will do what I can to use your preferred medium (from voice call [I still have a landline] to the video chat platform of your dreams). That said, I will insist on some form of interactivity: please do not plan on using email as a replacement for meeting with me.
 
 ### Networked life
+This last unit of the course is much more geared towards my current research than much of what we've done. It's definitely not film studies in a medium-specific way. 
+
+But it is deeply continuous with the project of film theory across much of its historical span, from the 1920s through the 1980s, and even more recently.
+
+Film theory in its guise of apparatus theory and after--but also, importantly, in the work of thinkers from the "classical" era, like Walter Benjamin and Theodor Adorno and Max Horkheimer and André Bazin--has been concerned with developing accounts of how the cinema worked as a machine for making up subjects. The cinema affects us, often on levels that aren't consciously available. It does so politically. It teaches us what a person is and how to orient ourselves in the world. It teaches us how to live in relation to larger forces. For most of the history of film theory, film theorists understood the cinema to be the most important such political technology.
+
+TV was super important, too. But for various reasons, film theory never took television very seriously.
+
+In 2020, it's clear that the most important political technologies for articulating structures of subjectivity are networked computational media. The work from this week--_I Love Alaska_, _Somebody_, _Beacon_, the Galloway and Cohen and Fisher--are all trying to reckon with always-on networked computing as a technology for the production of subjects.
+
+The most important thing to understand about the material this week is really that it's a version of apparatus theory for a present moment lived now much more in relation to networked computational media than in relation to feature-length narrative.
+
+The second most important thing to understand about the material this week is that it has a story about how computational media address us that is decisively different than film theory's story about how films address us.
+
