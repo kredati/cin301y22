@@ -11,3 +11,6 @@
   - It is never appropriate to comment on an instructor's appearance in your evaluations. _Every single one_ of my women colleagues get routine comments on their appearance; I have never received one.
   - Evaluations are especially consequential for pre-tenure, graudate, and contract faculty. (I am tenured, as of this year; they no longer matter so very much for me--although, as I said, I do take them very seriously.) Please know that you have a fair amount of power in these, and wield that power judiciously.
 * I am (again), later than I'd like with this lecture. I will be responding to today's discussion board through the beginning of next week.
+* I will be holding regular office hours next week, on Tuesday, April 7. Book an appointment, as usual, at https://calendly.com/s-richmond/officehours. After that, I will definitely be available for any kind of meeting; just email me and set up an appointment. Office hours and other appointments will be norally be conducted on video chat, by Skype; but I will do what I can to use your preferred medium (from voice call [I still have a landline] to the video chat platform of your dreams). That said, I will insist on some form of interactivity: please do not plan on using email as a replacement for meeting with me.
+
+### Networked life
