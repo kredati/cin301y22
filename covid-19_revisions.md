@@ -78,7 +78,7 @@ The current schedule is also detailed in our syllabus:
 
 #### ~~Proposed c~~ Changes now in effect
 ##### Changes to marking scheme
-**_Please vote to approve, or not, these changes [here](https://q.utoronto.ca/courses/114159/quizzes/62095) by 11:59pm on Tuesday, April 24._**
+~~**_Please vote to approve, or not, these changes [here](https://q.utoronto.ca/courses/114159/quizzes/62095) by 11:59pm on Tuesday, April 24._**~~ 
 
 _Questions about the below should be posted to [our discussion board dedicated to assignment logistics](https://q.utoronto.ca/courses/114159/discussion_topics/558490)._
 
