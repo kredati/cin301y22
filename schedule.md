@@ -148,37 +148,35 @@ Screening:
 * John Woo, _The Killer_ (喋血双雄, _Diéxuè shuāngxióng_, Hong Kong, 1989, 110 mins.)
 
 ### Week 12: Writing workshop the second
-#### Tuesday, December 3: 
+#### Tuesday, December 6: 
 TBD.
 
-#### Wednesday, December 4: Writing workshop the second.
+#### Wednesday, December 7: Writing workshop the second.
 Reading due:
 * Booth et al., “Introductions and Conclusions,” from _The Craft of Research_
 
 Homework due:
 * Introduction worksheet
 
-#### Thursday, December 5, Makeup Monday: No class; work on your papers.
+### Thursday, December 8: Paper 2 due at 11:59pm.
 
-### Thursday, December 5: Paper 2 due at 11:59pm.
+#### Thursday & Friday, December 8 & 9: No tutorials; it's Makeup Monday and Reading Day.
 
-#### Thursday & Friday, December 5 & 6: No tutorials; it's Makeup Monday and Reading Day.
-
-#### Sunday, December 15: Paper 2 marking window closes at 11:59pm.
+#### Sunday, December 18: Paper 2 marking window closes at 11:59pm.
 
 ---
 
 ## Unit 3: What isn't cinema?
 
 ### Week 13: The historical (re)turn
-#### Tuesday, January 6:
+#### Tuesday, January 10:
 Reading due:
 * Walter Benjamin, “[The Work of Art in the Age of its Technological Reproducibility, 2nd Version](https://cr.library.utoronto.ca/get/course/532959/hash/i.9gt2H8)”
 * Walter Benjamin, “[Experience and Poverty](https://cr.library.utoronto.ca/get/course/532959/hash/i.jFKC54)”
 * Tom Gunning, “[An Aesthetic of Astonishment](https://cr.library.utoronto.ca/get/course/532959/hash/i.jqj8CP)”
 * James Leo Cahill, “[A YouTube Bestiary](https://q.utoronto.ca/files/5625729/download?download_frd=1)”
 
-#### Wednesday, January 8:
+#### Wednesday, January 11:
 Screening: Program of early attractions shorts
 * Ken Jacobs, _The Georgetown Loop_ (USA, 1996, 11 mins.)
 * Ken Jacobs, _Capitalism: Slavery_ (USA, 2007, 3 mins.)
@@ -186,24 +184,24 @@ Screening: Program of early attractions shorts
 * Program of YouTube “attractions”
 * James J. Hodge, _Touch_ (USA, 2018, 10 mins.)
 
-### Friday, January 10: To receive a passing mark for the course, students must have submitted both papers from fall term by 11:59pm.
+### Friday, January 13: To receive a passing mark for the course, students must have submitted both papers from fall term by 11:59pm.
 
 ### Week 14: Film, Realism
-#### Tuesday, January 13:
+#### Tuesday, January 17:
 Reading due:
 * Stanley Cavell, chs. 1–3, 10–11, 14–15, 17, & 19 from _The World Viewed_ (do not fret; the chapters are [mostly] short).
 
-### Wednesday, January 15:
+### Wednesday, January 18:
 Screening:
 * Agnès Varda, _The Gleaners and I_ (_Les glaneurs et la glaneuse_, France, 2000, 82 mins.)
 
 ### Week 15: Writing workshop the third
-#### Tuesday, January 20:
+#### Tuesday, January 24:
 Reading due:
 * Wayne Booth, et al., “[Revising Style](https://q.utoronto.ca/files/5781529/download?download_frd=1),” from _The Craft of Research_
 * David Foster Wallace, “[Authority and American Usage](https://q.utoronto.ca/files/4270834/download?download_frd=1),” from _Consider the Lobster_
 
-#### Wednesday, January 22:
+#### Wednesday, January 25:
 In class:
 * Theme & Character workshop
 
@@ -212,31 +210,31 @@ Homework due:
 * Theme & Character études
 
 ### Week 16: Television, Liveness
-#### Tuesday, January 27:
+#### Tuesday, January 31:
 Reading due:
 * Marshall McLuhan, “[The Gadget Lover](https://cr.library.utoronto.ca/get/course/532959/hash/i.TdxgK2),” from _Understanding Media_
 * Mary Ann Doane, “[Information, Crisis, Catastrophe](https://cr.library.utoronto.ca/get/course/532959/hash/i.7pBmKk)”
 * Jane Feuer, “[The Concept of Live Television: Ontology as Ideology](https://cr.library.utoronto.ca/get/course/532959/hash/i.ggg7fb)”
 * OH: “Television and the Film Industry”
 
-#### Wednesday, January 29:
+#### Wednesday, February 1:
 Screening:
 * Program of TV news, morning shows, talk shows, etc.
 
 ### Week 17: 
-#### Tuesday, February 3:
+#### Tuesday, February 7:
 No new reading due, but be sure to complete the reading due for the previous week—and to get a head start on the Krauss for the following week.
 
-#### Wednesday, February 5:
+#### Wednesday, February 8:
 * Marlon Riggs, _Tongues Untied_ (USA, 1989, 55 mins.)
 
 ### Week 18: Video, Art
-#### Tuesday, February 10:
+#### Tuesday, February 14:
 Reading due:
 * Rosalind Krauss, [_A Voyage on the North Sea: Art in the Age of the Post-Medium Condition_](https://q.utoronto.ca/files/4270837/download?download_frd=1)
 * Kate Mondloch, “[Body and Screen](https://q.utoronto.ca/files/5919947/download?download_frd=1),” from _Screens_
 
-#### Wednesday, February 12:
+#### Wednesday, February 15:
 Screening:
 * Program of video and performance art, including:
 * Bill Viola, _Lip Synch_ (USA)
@@ -244,19 +242,18 @@ Screening:
 * Nam June Paik, _Television Buddha_ (Korea/Germany)
 * Shirin Neshat, _Turbulent_ (Iran/USA)
 
-### February 17–21: No meetings; it is Reading Week.
+### February 20–24: No meetings; it is Reading Week.
 
 ### Week 19: Computation, Screens
-#### Tuesday, February 24:
+#### Tuesday, February 28:
 Reading due:
 * N. Katherine Hayles, [“Prologue” and “Virtual Bodies and Flickering Signifiers”](https://q.utoronto.ca/files/5920031/download?download_frd=1) from _How We Became Posthuman_
 * Wendy Chun, “[On Software, or The Persistence of Visual Knowledge](https://cr.library.utoronto.ca/get/course/532959/hash/i.vfzp8m)”
 * Alexander Galloway, “[Language Wants to be Overlooked: On Software and Ideology](https://cr.library.utoronto.ca/get/course/532959/hash/i.SXvTMx)”
 * Scott Richmond, “[Of Mice and Turtles](https://medium.com/thinking-with-computers/of-mice-and-turtles-cc64934ff0d2)”
 
-### Tuesday, February 24: Paper 3 due at 11:59pm.
 
-### Wednesday, February 26:
+### Wednesday, March 1:
 Screening: Program of films/videos of early computation:
 * Ivan Sutherland, Sketchpad videos
 * Douglas Engelbart, clips from “The Mother of All Demos”
@@ -267,18 +264,18 @@ Screening: Program of films/videos of early computation:
 ## Unit 4: Cinema, now
 
 ## Week 20: Historiography & reception
-### Tuesday, March 2:
+### Tuesday, March 7:
 Reading due:
 * bell hooks, “[Is Paris Burning?](https://q.utoronto.ca/files/4270845/download?download_frd=1)”
 * Judith Butler, “[Gender is Burning](https://q.utoronto.ca/files/4270844/download?download_frd=1)” from Bodies that Matter
 * Lucas Hilderbrand, pp. 17–88 and 119–46 from _Paris is Burning: A Queer Film Classic_
 * K. Austin Collins, “[Paris is Burning is Back—And So is its Baggage](https://www.vanityfair.com/hollywood/2019/06/paris-is-burning-documentary-drag-jennie-livingston-interview),” in _Vanity Fair_
 
-#### Tuesday, March 2: Paper 3 marking window closes at 11:59pm. (Note the 7-day marking window.)
-
-### Wednesday, March 4:
+### Wednesday, March 8:
 Screening:
 * Jennie Livingston, _Paris is Burning_ (USA, 1991, 78 mins.)
+
+### Friday, March 10: Paper 3 due at 11:59pm.
 
 ### Week 21: Circulation & globalization
 #### Tuesday, March 9: Reading due:
@@ -296,6 +293,8 @@ _NB: We will not be able to screen all of K3G in our time together in Town Hall.
 ### Thursday, March 12 & Friday, March 13:
 Tutorials:
 * ...will continue the screening of _K3G_.
+
+#### Friday, March 17: Paper 3 marking window closes at 11:59pm. (Note the 7-day marking window.)
 
 ### Weeks 22, 23, and 24 are, due to U of T's COVID-19 social distancing responses, now considered "Optional Enrichment" material. Please feel free to engage online as much as you'd like, but the assessments for the course will not in any way require you to address this material.
 
