@@ -109,7 +109,7 @@ Screening:
 #### November 7–11: No meetings; it's Reading Week.
 
 ### Week 9: Secondary cinematic identification, or passionate detachment
-#### Tuesday, November 11:
+#### Tuesday, November 15:
 Reading due:
 * Laura Mulvey, “[Visual Pleasure and Narrative Cinema](https://cr.library.utoronto.ca/get/course/532959/hash/i.2xXhhG)”
 * Sigmund Freud, [essays](https://cr.library.utoronto.ca/get/course/532959/hash/i.rbtmJF):
@@ -119,7 +119,7 @@ Reading due:
   - “The Dissolution of the Oedipus Complex”
 * Damon Young, “[The Vicarious Look](https://search-proquest-com.myaccess.library.utoronto.ca/docview/1707765852/fulltext/7A0A61D0E5AE4406PQ/1?accountid=14771)”
 
-#### Wednesday, November 13:
+#### Wednesday, November 16:
 Screening:
 * Alfred Hitchcock, _Vertigo_ (USA, 1958, 128 mins.)
 
