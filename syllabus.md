@@ -28,6 +28,8 @@ We acknowledge this sacred land on which the University of Toronto operates. It 
 
 Today, the meeting place of Toronto is still the home to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work in the community, on this territory.
 
+These acknowledgments are a beginning, not an end. I invite all who must to walk the path of decolonization with me, settler and immigrant alike.
+
 ### Course description
 This course—the second half of the Film Cultures series—surveys major developments and debates in the history and theory of cinema from 1960 to the present. We will examine the proliferation of cinematic new waves, the formation of political and counter-cinemas, the linguistic, psychoanalytic, Marxist, feminist, and political turns of contemporaneous film theory, the influence of globalization and postcolonialism on national film cultures, and the multiple and conflicting relationships between cinema and other technological media, and the impacts of new media technologies on aesthetics, spectatorship, and theory. We will approach our study of these histories and theoretical debates from a transnational, interdisciplinary, and multi-medial perspective, integrating analyses of important film movements, filmmakers, and formal and institutional developments in film practice with cultural critique and social, cultural, economic, aesthetic, and political contexts.
 
