@@ -43,16 +43,15 @@ Reading due:
 Screening:
 * Vera Chytilová, _Daisies_ (_Sedmikrásky_, Czechoslovakia, 1966, 74 mins.)
 
-### Week 4: Third Cinema: Buenos Aires, 1969
-#### Tuesday, September 30:
+### Week 4: Third Cinema: Buenos Aires, 1968
+#### Tuesday, October 4:
 Reading due:
 * Octavio Getino & Fernando Solanas, “[Toward a Third Cinema](https://cr.library.utoronto.ca/get/course/532959/hash/i.V3jvBW)”
 * Frantz Fanon, [“On Violence” (selections)](https://q.utoronto.ca/courses/114159/files/folder/Additional%20readings?preview=4270812) and [“Conclusion,”](https://q.utoronto.ca/courses/114159/files/folder/Additional%20readings?preview=4270813) from _The Wretched of the Earth_
 * Ella Shohat and Robert Stam, “[The Third Worldist Film](https://cr.library.utoronto.ca/get/course/532959/hash/i.7NWVPv),” from _Unthinking Eurocentrism_
 * Lúcia Nagib, “[Towards a Positive Definition of World Cinema](https://q.utoronto.ca/files/4271075/download?download_frd=1)”
-* OH: “New Cinemas in Latin America”
 
-#### Wednesday, October 2:
+#### Wednesday, October 5:
 Screening:
 * Santiago Alvarez, _Now_ (Cuba, 1965, 5 mins.)
 * Octavio Getino & Fernando Solanas, _Hour of the Furnaces_, part 1: “Neocolonialism and Violence” (_La hora de los hornos_, Argentina, 1968, 90 mins.)
