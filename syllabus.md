@@ -4,18 +4,24 @@
 
 ### Administritivia
 * **Meetings:**
-  - Mondays, 12noon-1pm: Lecture, Innis Town Hall
+  - Tuesdays, 12noon-1pm: Lecture, Innis Town Hall
   - Wednesdays, 12noon–3pm: Lecture & Screening, Innis Town Hall
-  - Thursdays & Fridays: Tutorials, Media Commons Theatre (Th 9–10am, Th 1–2pm, Th 2–3pm, Fr 12noon-1pm)
+  - Thursdays & Fridays: Tutorials
+  	* Thursdays, 10–11am (Media Commons Theatre)
+	* Thursdays, 6–7pm (Innis 312)
+	* Fridays, 10–11am (Media Commons Theatre)
+	* Fridays, 2–3pm (Media Commons Theatre)
 * **Instructor:** Scott Richmond (s.richmond@utoronto.ca)
-* **Office:** Innis 230E
+* **Office:** Director's Office (2nd floor), Centre for Culture and Technology Coach House, 39A Queen's Park Crescent East
 * **Office hours:** Tuesdays 1–3pm, and by appointment. Sign up for slots during regular hours at https://calendly.com/s-richmond/officehours/. Email Scott for an appoiintment.
 * **TAs:**<br />
-Morgan Harper (Th 9–10am, morgan.harper@mail.utoronto.ca)<br />
-Daniele Ianucci (grader, daniel.iannucci@mail.utoronto.ca)<br />
-Patrick Marshall (Fr 12noon–1pm, p.marshall@mail.utoronto.ca)<br />
-Erin Nunoda (Th 2–3pm, erin.nunoda@mail.utoronto.ca)<br />
-Samuel Reimer (Th 1–2pm, samuel.reimer@mail.utoronto.ca)<br />
+Andi Gilker<br />
+Andy Lee <br />
+Mynt Marcellus <br />
+Dillan Newman <br />
+Stephen Schwartz <br />
+Félix Veilleux <br />
+Stephen Schwartz
 
 ### Land acknowledgment
 We acknowledge this sacred land on which the University of Toronto operates. It has been a site of human activity for 15,000 years. This land is the territory of the Huron-Wendat and Petun First Nations, the Seneca, and most recently, the Mississaugas of the Credit River. The territory was the subject of the Dish with One Spoon Wampum Belt Covenant, an agreement between the Iroquois Confederacy and Confederacy of the Ojibwe and allied nations to peaceably share and care for the resources around the Great Lakes.
@@ -38,12 +44,9 @@ In addition to the above content-knowledge objectives, this course is organized 
 * articulating motivations for written and spoken communication about course material.
 
 ### Course materials
-There are three required books for CIN301, all of which I have ordered into the U of T bookstore:
-* Geoffrey Nowell-Smith, _The Oxford History of World Cinema_
+There are two required books for CIN301, both of which we will read in Winter term, and both of which will be available to purchase at the U of T bookstore at the beginning of winter term:
 * Stanley Cavell, _The World Viewed_
 * Lucas Hilderbrand, _Paris is Burning: A Queer Film Classic_
-
-Both the Nowell-Smith and the Hilderbrand are available as e-books through the University of Toronto Library. Please note that you nevertheless **must** have the texts with you in class.
 
 The remainder of the readings will be available through our Quercus site. Most of these are through the library e-reserves; some of them are in the `Files > Additional Readings` section of the Quercus site. The schedule has direct links to the readings as an aid, but if you are not already logged into Quercus and the Library e-reserves site, the links will not work. If you are having difficulty accessing readings through the course links, you will need to navigate to the readings directly through Quercus.
 
@@ -51,18 +54,26 @@ The remainder of the readings will be available through our Quercus site. Most o
 [The course schedule is in a separate document.](./schedule.md)
 
 ### Coursework
-This term, you will be assessed in three ways: tutorial questions (10% of your final mark), papers (4 papers cumulatively are 65% of your final mark), and a final exam (25% of your final mark). These are detailed below.
+This term, you will be assessed in three ways: tutorial citizenship (15% of your final mark), four papers (4 papers cumulatively are 75% of your final mark), and a (required) revision of one of your papers (10% of your final mark). These are detailed below.
 
-#### Tutorial questions
-While participation in discussions that take place in tutorials is not evaluated directly, you will be evaluated on your participation in setting the agenda for your tutorial. Each week, the first 5–10 minutes of tutorials (see more on tutorial formats elsewhere) will be dedicated to collecting student questions. There are 22 normal tutorials throughout the year; you are expected to contribute a question in at least 10 of these tutorial sessions. At the end of the year, your TA will tally the number of questions each student has asked. Each student's mark will be percentage of those 10 questions they have asked (with a ceiling of 100%). For example, if you ask 8 questions in the year, you will receive 80%. Note: this is neither a fuzzy participation mark, nor an attendance mark. Please also note: these cannot be made up in any way; you can miss the majority of tutorials and still receive 100%.
+#### Tutorial citizenship
+Tutorial citizenship comprises two sets of activities. It is different than the "participation" mark you may be used to. The two activities are as follows:
+
+**Questions.** Each week, the first 5–10 minutes of tutorials (see more on tutorial formats elsewhere) will be dedicated to collecting student questions. There are 22 normal tutorials throughout the year. Each tutorial is an opportunity to ask a question. The questions collected at the beginning of each tutorial will be the agenda for the tutorial. 
+
+**Group notes.** Every tutorial session will also have a collaboratively authored group notes document, hosted on Google Docs. Students can collect citizenship credit for contributing (in a significant way) to the group notes.
+
+At the end of the year, your TA will tally the number of questions each student has asked, and the number of group notes to which each student has contributed. Each question or contribution to group notes will count as a "chit." Each chit is worth 7 points (although the maximum citizenship score a student may receive is, naturally, 100).
+
+Taken together, the citizenship mark is 15% of your final mark.
 
 #### Papers
-Over the course of the year, you will write four papers, all in the range of 1,500–2,000 words (~5–7 pages). Each is weighted equally. Together they count for 65% of your final mark. Each is thus worth the rather stupidly precise 16.25% of your final mark. Papers will be evaluated by letter grade according to a rubric distributed with the paper prompts. Paper prompts will be distributed at least two weeks in advance of the deadline. I will provide the paper prompts from the previous iteration of CIN301. The deadlines for papers are as follows:
+Over the course of the year, you will write four papers, all in the range of 1,500–2,000 words (~5–7 pages). Each is weighted equally. Together they count for 75% of your final mark. Each is thus worth the rather stupidly precise 18.75% of your final mark. Papers will be evaluated by letter grade according to a rubric distributed with the paper prompts. Paper prompts will be distributed at least two weeks in advance of the deadline. I will provide the paper prompts from the previous iteration of CIN301. The deadlines for papers are as follows:
 
-* Friday, October 25
-* Monday, December 9
-* Friday, February 14
-* Friday, March 27
+* Friday, October 28
+* Thursday, December 8
+* Friday, March 10
+* Friday, April 14
 
 Each paper is due by 11:59pm on the day it is due. Papers should be uploaded (doc, docx, pages, or rtf) to the Quercus site.
 
