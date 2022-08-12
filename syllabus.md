@@ -103,7 +103,7 @@ For all students, please note that the **minimum passing requirements** for CIN3
 Exceptions to these minimum requirements will be made only _in extremis_, with explicit negotiation with Scott well in advance of the relevant dates, and with the involvement of studdent support services (e.g. College Registrars, Accessibility Services, etc.).
 
 ### Accessibility
-I believe in making learning accessible to all students. That means I have attempted to design this course as "universally accessible," meaning that no student should have to negotiate with me to receive accommodations. That said, I am extremely eager to discuss any accessibility needs with any student.
+I believe in making learning accessible to all students. That means I have attempted to design this course as "universally accessible," meaning that no student should have to negotiate with me to receive accommodations that are normally provisioned through Accessibility Services. That said, I am extremely eager to discuss any accessibility needs with any student.
 
 If you have accessibility needs that are not met in any way by the scheme below, please discuss them with me (Scott) early and often. These can include mobility, affective, or cognitive accessibility issues. Some of these redound to the classroom environment, others to assessment.
 
