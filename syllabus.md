@@ -13,7 +13,7 @@
 	* Fridays, 2–3pm (Media Commons Theatre)
 * **Instructor:** Scott Richmond (s.richmond@utoronto.ca)
 * **Office:** Director's Office (2nd floor), Centre for Culture and Technology Coach House, 39A Queen's Park Crescent East
-* **Office hours:** Tuesdays 1–3pm, and by appointment. Sign up for slots during regular hours at https://calendly.com/s-richmond/officehours/. Email Scott for an appoiintment.
+* **Office hours:** Tuesdays 2–5pm, and by appointment. Sign up for slots during regular hours at https://calendly.com/s-richmond/officehours/. Calendly bookings must be made at least 24 hours in advance of an appointment. Email Scott for an appoiintment. All office hours are by Zoom. [Click here to join Scott's Zoom room.](https://utoronto.zoom.us/j/2628701337)
 * **TAs:**<br />
 Andi Gilker<br />
 Andy Lee <br />
