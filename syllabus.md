@@ -107,13 +107,18 @@ I believe in making learning accessible to all students. That means I have attem
 
 If you have accessibility needs that are not met in any way by the scheme below, please discuss them with me (Scott) early and often. These can include mobility, affective, or cognitive accessibility issues. Some of these redound to the classroom environment, others to assessment.
 
+#### Documentation, or lack thereof
+Not all students in situations warranting accommodation can get approved by accessibility services. If you wish to seek accommodation that has not been formally organized by Accessibility Services for any reason, please come talk to me about it as soon as you can.
+
+If you have any reason to seek an accommodation, even if it is temporary and you don't have paperwork from Accessibility Services, please contact me. Please be advised that I may well attach what I understand to be reasonable requirements to such one-off accessibility-based accommodations, such as obtaining a letter from your College Registrar. These requirements are mostly devised to ensure that you are connected to the relevant support services.
+
 #### Late work
 My late work policy is unusual and a little bit complicated. Please read this carefully.
 
 * Paper prompts will be circulated at least three weeks before papers are due.
 * Papers are due on their due date. Allow me to repeat: PAPERS ARE DUE ON THEIR DUE DATE.
 * That said, there are _never_ any penalties in marks for missing a deadline. That said, there are some consequences.
-* Each paper has a "marking window." If you submit your paper within the marking window, it will be marked with the papers that were submitted on time, and you'll get a mark and comments in good time. Marking windows are normally 10 calendar days.
+* Each paper has a "marking window." If you submit your paper within the marking window, it will be marked with the papers that were submitted on time, and you'll get a mark and comments in good time. Marking windows are normally 10 calendar days. They are noted in the course schedule.
 * After that marking window, your paper will be marked with the _subsequent_ round of papers, months later. (E.g., if you submit your second paper after December 18, it will not be marked until mid-March.)
 * Additionally, if you miss the deadline by more than two weeks, you will not get your paper marked unless and until you meet with Scott to discuss your situation.
 * See also the minimum passing requirements: both fall term papers must be submitted by (approximately) the beginning of winter term; winter term papers must be submitted by the end of finals period. These two deadlines are _hard stops_. (For example, you will not be able to convince me that you can submit zero papers in fall term but _four_ papers in winter term.)
@@ -147,11 +152,6 @@ This seems like a funny place to put this, but: laptops and other screens that c
 
 #### Course assessment
 It is possible to modify course assessment due to accessibility reasons. I will happily consider doing so. That said, this is the sort of thing that will have to be bespoke. Please talk to me early and often if you require modifications to the coursework. Please also see the portion of the syllabus on late work.
-
-#### Documentation, or lack thereof
-Not all students in situations warranting accommodation can get approved by accessibility services. If you wish to seek accommodation that has not been formally organized by Accessibility Services for any reason, please come talk to me about it as soon as you can.
-
-If you have any reason to seek an accommodation, even if it is temporary and you don't have paperwork from Accessibility Services, please contact me. Please be advised that I may well attach what I understand to be reasonable requirements to such one-off accessibility-based accommodations, such as obtaining a letter from your College Registrar. These requirements are mostly devised to ensure that you are connected to the relevant support services.
 
 ### Other policies & procedures
 #### Attendance
