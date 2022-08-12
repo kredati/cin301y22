@@ -124,7 +124,7 @@ Screening:
 * Alfred Hitchcock, _Vertigo_ (USA, 1958, 128 mins.)
 
 ### Week 10: Disidentification, or spectatorship
-#### Tuesday, November 18:
+#### Tuesday, November 22:
 Reading due:
 * Frantz Fanon, “[The Fact of Blackness](https://cr.library.utoronto.ca/get/course/532959/hash/i.d3nKH3),” from _Black Skin, White Masks_
 * Manthia Diawara, “[Black Spectatorship: Problems of Identification and Resistance](https://q.utoronto.ca/files/4270822/download?download_frd=1)”
@@ -132,24 +132,24 @@ Reading due:
 * Elizabeth Reich, “[Historicizing and Internationalizing the ‘Baadasssss’](https://cr.library.utoronto.ca/get/course/532959/hash/i.X3tkND),” from _Militant Visions_
 * OH: “The Black Presence in American Cinema”
 
-#### Wednesday, November 20:
+#### Wednesday, November 23:
 Screening:
 * Julie Dash, _Illusions_ (USA, 1982, 34 mins.)
 * Melvin Van Peebles, _Sweet Sweetback’s Basdasssss Song_ (USA, 1971, 97 mins.)
 
 ### Week 11: On being shattered
-#### Tuesday, November 25:
+#### Tuesday, November 29:
 Reading due:
 * Leo Bersani, “[Is the Rectum a Grave?](https://www-jstor-org.myaccess.library.utoronto.ca/stable/3397574?pq-origsite=summon&seq=1#metadata_info_tab_contents)”
 * Steven Shaviro, “[Film Theory and Visual Fascination](https://q.utoronto.ca/files/4270805/download?download_frd=1)” from _The Cinematic Body_
-* OH: “Popular Cinema in Hong Kong”
 
-#### Wednesday, November 27:
+#### Wednesday, November 30:
 Screening:
 * John Woo, _The Killer_ (喋血双雄, _Diéxuè shuāngxióng_, Hong Kong, 1989, 110 mins.)
 
 ### Week 12: Writing workshop the second
-#### Tuesday, December 3: No class; work on your papers.
+#### Tuesday, December 3: 
+TBD.
 
 #### Wednesday, December 4: Writing workshop the second.
 Reading due:
