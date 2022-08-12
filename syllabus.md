@@ -65,13 +65,15 @@ Tutorial citizenship comprises two sets of activities. It is different than the 
 
 **Group notes.** Every tutorial session will also have a collaboratively authored group notes document, hosted on Google Docs. Students can collect citizenship credit for contributing (in a significant way) to the group notes.
 
-At the end of the year, your TA will tally the number of questions each student has asked, and the number of group notes to which each student has contributed. Each question or contribution to group notes will count as a "chit." Each chit is worth 7 points (although the maximum citizenship score a student may receive is, naturally, 100).
+At the end of the year, your TA will tally the number of questions each student has asked, and the number of group notes to which each student has contributed. Each question or contribution to group notes will count as a "chit." Each chit is worth 7 points (although the maximum citizenship score a student may receive is, naturally, 100; you'll get full marks with 15 chits).
 
 Note that both tutorial citizenship marks require attendance at tutorial to complete. That is by design.
 
 Students may receive both kinds of chits for a single tutorial meeting.
 
 Taken together, the citizenship mark is 15% of your final mark.
+
+We will _not_ calculate running tallies. If you wish to know your citizenship mark during the year, it is up to you to keep track of your questions and your contributions to group notes.
 
 #### Papers
 Over the course of the year, you will write four papers, all in the range of 1,500–2,000 words (~5–7 pages). Each is weighted equally. Together they count for 75% of your final mark. Each is thus worth the rather stupidly precise 18.75% of your final mark. Papers will be evaluated by letter grade according to a rubric distributed with the paper prompts. Paper prompts will be distributed at least two weeks in advance of the deadline. I will provide the paper prompts from the previous iteration of CIN301. The deadlines for papers are as follows:
