@@ -1,14 +1,14 @@
-### CIN301Y19: Film Cultures II
+### CIN301Y22: Film Cultures II
 # Course Schedule
 
 ## Unit 1: The 60s: Resistance and revolution
 
-#### September 5 & 6: No tutorials.
+#### September 8 & 9: No tutorials.
 
 ### Week 1: Introduction & What is Film History?
-#### Monday, September 9: Introduction to CIN301.
+#### Tuesday, September 13: Introduction to CIN301.
 
-#### Wednesday, September 11: 
+#### Wednesday, September 14: 
 Reading due:
 * Hans-Georg Gadamer, “[Aesthetics and Hermeneutics](https://cr.library.utoronto.ca/get/course/532959/hash/i.DTpfw5)”
 * Vivian Sobchack, “[What is Film History?](https://cr.library.utoronto.ca/get/course/532959/hash/i.tmLSKJ)”
@@ -18,35 +18,33 @@ Screening:
 * Jorge Fertado, _Isle of Flowers_ (_Ilha das Flores_, Brazil, 1990, 13 mins.)
 * Martin Arnold, _Passage à l’Acte_ (Austria, 1993, 11 mins.)
 
-#### Thursday & Friday, September 12 & 13: First tutorial meetings.
+#### Thursday & Friday, September 15 & 16: First tutorial meetings.
 
-### Week 2: Underground cinema
-#### Monday, September 16:
+### Week 2: Underground cinema: New York, 1963
+#### Tuesday, September 20:
 Reading due:
 * Susan Sontag, [“Notes on Camp” and “Flaming Creatures,”](https://cr.library.utoronto.ca/get/course/532959/hash/i.TqzG5w) from _Against Interpretation_
 * Ara Osterweil, "[Saint Barbara: The Cinema of Barbara Rubin](https://cr.library.utoronto.ca/get/course/532959/hash/i.rN48JL)," from _Flesh Cinema_
-* Geoffrey Nowell-Smith, _Oxford History of World Cinema_ (Henceforth: OH): “Sex and Sensation,” and “Avant-Garde Film: The Second Wave”
 
-#### Wednesday, September 18:
+#### Wednesday, September 21:
 Screening:
 * Andy Warhol, _Blow Job_ (USA, 1963, 35 mins.)
 * Jack Smith, _Flaming Creatures_ (USA, 1963, 45 mins.)
 * Barbara Rubin, _Christmas on Earth_ (USA, 1963, 29 mins.)
 
-### Week 3: The New Waves
-#### Monday, September 23:
+### Week 3: The New Waves: Prague, 1966
+#### Tuesday, September 23:
 Reading due:
 * Jan Žalman, “[Question Marks on the New Czechoslovak Cinema](https://cr.library.utoronto.ca/get/course/532959/hash/i.c3X7Gz)”
 * Jean-Francois Lyotard, “[Acinema](https://cr.library.utoronto.ca/get/course/532959/hash/i.bVkF4d)”
 * Bliss Cua Lim, “[Dolls in Fragments: _Daisies_ as Feminist Allegory](https://cr.library.utoronto.ca/get/course/532959/hash/i.52244D)”
-* OH: “Changing States in East Central Europe”
 
 #### Wednesday, September 25:
 Screening:
 * Vera Chytilová, _Daisies_ (_Sedmikrásky_, Czechoslovakia, 1966, 74 mins.)
 
 ### Week 4: Third Cinema, revolutionary cinema
-#### Monday, September 30:
+#### Tuesday, September 30:
 Reading due:
 * Octavio Getino & Fernando Solanas, “[Toward a Third Cinema](https://cr.library.utoronto.ca/get/course/532959/hash/i.V3jvBW)”
 * Frantz Fanon, [“On Violence” (selections)](https://q.utoronto.ca/courses/114159/files/folder/Additional%20readings?preview=4270812) and [“Conclusion,”](https://q.utoronto.ca/courses/114159/files/folder/Additional%20readings?preview=4270813) from _The Wretched of the Earth_
@@ -60,7 +58,7 @@ Screening:
 * Octavio Getino & Fernando Solanas, _Hour of the Furnaces_, part 1: “Neocolonialism and Violence” (_La hora de los hornos_, Argentina, 1968, 90 mins.)
 
 ### Week 5: Fourth Cinema, indigeneity
-#### Monday, October 7:
+#### Tuesday, October 7:
 Reading due:
 * Barry Barclay, “[Celebrating Fourth Cinema](https://q.utoronto.ca/files/4270831/download?download_frd=1)”
 * Kerstin Knopf, “[The Journals of Knud Rasmussen: Arctic History as Post/Colonial Cinema](https://q.utoronto.ca/files/4270806/download?download_frd=1)”
@@ -73,7 +71,7 @@ Screening:
 * Zacharias Kunuk and Norman Cohn, _The Journals of Knud Rasmussen_ (Canada, 2006, 112 mins.)
 
 ### Week 6: Writing workshop the first
-#### Monday, October 14: Thanksgiving, no class.
+#### Tuesday, October 14: Thanksgiving, no class.
 
 #### Wednesday, October 16:
 Reading due:
@@ -85,7 +83,7 @@ Homework due:
 ## Unit 2: The 70s: Thinking the apparatus
 
 ### Week 7: Cinema and/as ideology
-#### Monday, October 21: Reading due:
+#### Tuesday, October 21: Reading due:
 * Louis Althusser, “[Ideology and Ideological State Apparatuses](https://q.utoronto.ca/courses/114159/files/folder/Additional%20readings?preview=4270819)”
 * Jean-Louis Baudry, “[Ideological Effects of the Basic Cinematographic Apparatus](https://www-jstor-org.myaccess.library.utoronto.ca/stable/1211632?seq=1#metadata_info_tab_contents)”
 * OH: “The New German Cinema”
@@ -97,7 +95,7 @@ Screening:
 ### Friday, October 25: First paper due by 11:59pm.
 
 ### Week 8: Primary cinematic identification, or blockbuster reality
-#### Monday, October 28: Reading due:
+#### Tuesday, October 28: Reading due:
 * Jacques Lacan, “[The Mirror Stage as Formative of the I Function](https://cr.library.utoronto.ca/get/course/532959/hash/i.4qwqP3)”
 * Annette Michelson, “[Bodies in Space: Film as Carnal Knowledge](https://q.utoronto.ca/courses/114159/files/folder/Additional%20readings?preview=4813079)”
 * Christian Metz, [“Identification, Mirror,” “The Passion for Perceiving,” and “Disavowal, Fetishism,”](https://cr.library.utoronto.ca/get/course/532959/hash/i.3tdmNb) from _The Imaginary Signifier_
@@ -110,7 +108,7 @@ Screening:
 #### November 4–8: No meetings; it's Reading Week.
 
 ### Week 9: Secondary cinematic identification, or passionate detachment
-#### Monday, November 11:
+#### Tuesday, November 11:
 Reading due:
 * Laura Mulvey, “[Visual Pleasure and Narrative Cinema](https://cr.library.utoronto.ca/get/course/532959/hash/i.2xXhhG)”
 * Sigmund Freud, [essays](https://cr.library.utoronto.ca/get/course/532959/hash/i.rbtmJF):
@@ -125,7 +123,7 @@ Screening:
 * Alfred Hitchcock, _Vertigo_ (USA, 1958, 128 mins.)
 
 ### Week 10: Disidentification, or spectatorship
-#### Monday, November 18:
+#### Tuesday, November 18:
 Reading due:
 * Frantz Fanon, “[The Fact of Blackness](https://cr.library.utoronto.ca/get/course/532959/hash/i.d3nKH3),” from _Black Skin, White Masks_
 * Manthia Diawara, “[Black Spectatorship: Problems of Identification and Resistance](https://q.utoronto.ca/files/4270822/download?download_frd=1)”
@@ -139,7 +137,7 @@ Screening:
 * Melvin Van Peebles, _Sweet Sweetback’s Basdasssss Song_ (USA, 1971, 97 mins.)
 
 ### Week 11: On being shattered
-#### Monday, November 25:
+#### Tuesday, November 25:
 Reading due:
 * Leo Bersani, “[Is the Rectum a Grave?](https://www-jstor-org.myaccess.library.utoronto.ca/stable/3397574?pq-origsite=summon&seq=1#metadata_info_tab_contents)”
 * Steven Shaviro, “[Film Theory and Visual Fascination](https://q.utoronto.ca/files/4270805/download?download_frd=1)” from _The Cinematic Body_
@@ -150,7 +148,7 @@ Screening:
 * John Woo, _The Killer_ (喋血双雄, _Diéxuè shuāngxióng_, Hong Kong, 1989, 110 mins.)
 
 ### Week 12: Writing workshop the second
-#### Monday, December 3: No class; work on your papers.
+#### Tuesday, December 3: No class; work on your papers.
 
 #### Wednesday, December 4: Writing workshop the second.
 Reading due:
@@ -172,7 +170,7 @@ Homework due:
 ## Unit 3: What isn't cinema?
 
 ### Week 13: The historical (re)turn
-#### Monday, January 6:
+#### Tuesday, January 6:
 Reading due:
 * Walter Benjamin, “[The Work of Art in the Age of its Technological Reproducibility, 2nd Version](https://cr.library.utoronto.ca/get/course/532959/hash/i.9gt2H8)”
 * Walter Benjamin, “[Experience and Poverty](https://cr.library.utoronto.ca/get/course/532959/hash/i.jFKC54)”
@@ -190,7 +188,7 @@ Screening: Program of early attractions shorts
 ### Friday, January 10: To receive a passing mark for the course, students must have submitted both papers from fall term by 11:59pm.
 
 ### Week 14: Film, Realism
-#### Monday, January 13:
+#### Tuesday, January 13:
 Reading due:
 * Stanley Cavell, chs. 1–3, 10–11, 14–15, 17, & 19 from _The World Viewed_ (do not fret; the chapters are [mostly] short).
 
@@ -199,7 +197,7 @@ Screening:
 * Agnès Varda, _The Gleaners and I_ (_Les glaneurs et la glaneuse_, France, 2000, 82 mins.)
 
 ### Week 15: Writing workshop the third
-#### Monday, January 20:
+#### Tuesday, January 20:
 Reading due:
 * Wayne Booth, et al., “[Revising Style](https://q.utoronto.ca/files/5781529/download?download_frd=1),” from _The Craft of Research_
 * David Foster Wallace, “[Authority and American Usage](https://q.utoronto.ca/files/4270834/download?download_frd=1),” from _Consider the Lobster_
@@ -213,7 +211,7 @@ Homework due:
 * Theme & Character études
 
 ### Week 16: Television, Liveness
-#### Monday, January 27:
+#### Tuesday, January 27:
 Reading due:
 * Marshall McLuhan, “[The Gadget Lover](https://cr.library.utoronto.ca/get/course/532959/hash/i.TdxgK2),” from _Understanding Media_
 * Mary Ann Doane, “[Information, Crisis, Catastrophe](https://cr.library.utoronto.ca/get/course/532959/hash/i.7pBmKk)”
@@ -225,14 +223,14 @@ Screening:
 * Program of TV news, morning shows, talk shows, etc.
 
 ### Week 17: 
-#### Monday, February 3:
+#### Tuesday, February 3:
 No new reading due, but be sure to complete the reading due for the previous week—and to get a head start on the Krauss for the following week.
 
 #### Wednesday, February 5:
 * Marlon Riggs, _Tongues Untied_ (USA, 1989, 55 mins.)
 
 ### Week 18: Video, Art
-#### Monday, February 10:
+#### Tuesday, February 10:
 Reading due:
 * Rosalind Krauss, [_A Voyage on the North Sea: Art in the Age of the Post-Medium Condition_](https://q.utoronto.ca/files/4270837/download?download_frd=1)
 * Kate Mondloch, “[Body and Screen](https://q.utoronto.ca/files/5919947/download?download_frd=1),” from _Screens_
@@ -248,14 +246,14 @@ Screening:
 ### February 17–21: No meetings; it is Reading Week.
 
 ### Week 19: Computation, Screens
-#### Monday, February 24:
+#### Tuesday, February 24:
 Reading due:
 * N. Katherine Hayles, [“Prologue” and “Virtual Bodies and Flickering Signifiers”](https://q.utoronto.ca/files/5920031/download?download_frd=1) from _How We Became Posthuman_
 * Wendy Chun, “[On Software, or The Persistence of Visual Knowledge](https://cr.library.utoronto.ca/get/course/532959/hash/i.vfzp8m)”
 * Alexander Galloway, “[Language Wants to be Overlooked: On Software and Ideology](https://cr.library.utoronto.ca/get/course/532959/hash/i.SXvTMx)”
 * Scott Richmond, “[Of Mice and Turtles](https://medium.com/thinking-with-computers/of-mice-and-turtles-cc64934ff0d2)”
 
-### Monday, February 24: Paper 3 due at 11:59pm.
+### Tuesday, February 24: Paper 3 due at 11:59pm.
 
 ### Wednesday, February 26:
 Screening: Program of films/videos of early computation:
@@ -268,21 +266,21 @@ Screening: Program of films/videos of early computation:
 ## Unit 4: Cinema, now
 
 ## Week 20: Historiography & reception
-### Monday, March 2:
+### Tuesday, March 2:
 Reading due:
 * bell hooks, “[Is Paris Burning?](https://q.utoronto.ca/files/4270845/download?download_frd=1)”
 * Judith Butler, “[Gender is Burning](https://q.utoronto.ca/files/4270844/download?download_frd=1)” from Bodies that Matter
 * Lucas Hilderbrand, pp. 17–88 and 119–46 from _Paris is Burning: A Queer Film Classic_
 * K. Austin Collins, “[Paris is Burning is Back—And So is its Baggage](https://www.vanityfair.com/hollywood/2019/06/paris-is-burning-documentary-drag-jennie-livingston-interview),” in _Vanity Fair_
 
-#### Monday, March 2: Paper 3 marking window closes at 11:59pm. (Note the 7-day marking window.)
+#### Tuesday, March 2: Paper 3 marking window closes at 11:59pm. (Note the 7-day marking window.)
 
 ### Wednesday, March 4:
 Screening:
 * Jennie Livingston, _Paris is Burning_ (USA, 1991, 78 mins.)
 
 ### Week 21: Circulation & globalization
-#### Monday, March 9: Reading due:
+#### Tuesday, March 9: Reading due:
 Reading due:
 * Ashish Rajadhyaksha, “[The ‘Bollywoodization’ of the Indian Cinema: Cultural Nationalism in a Global Arena](https://journals-scholarsportal-info.myaccess.library.utoronto.ca/details/14649373/v04i0001/25_toticcniaga.xml)”
 * Priya Joshi, “[Bollylite in America](https://journals-scholarsportal-info.myaccess.library.utoronto.ca/details/14746689/v08i0003/245_bia.xml)”
@@ -301,7 +299,7 @@ Tutorials:
 ### Weeks 22, 23, and 24 are, due to U of T's COVID-19 social distancing responses, now considered "Optional Enrichment" material. Please feel free to engage online as much as you'd like, but the assessments for the course will not in any way require you to address this material.
 
 ### Week 22: Animation & machine
-#### Monday, March 16:
+#### Tuesday, March 16:
 * Tom Lamarre, “[The Anime Machine](https://q.utoronto.ca/files/4270847/download?download_frd=1),” from _The Anime Machine_ (NB: The PDF includes this introduction as well as three subsequent chapters. The chapters are recommended, but not required reading. Only the introduction is required.)
 * Marc Steinberg, “[Limiting Movement, Inventing Anime](https://q.utoronto.ca/files/4270848/download?download_frd=1),” from _Anime’s Media Mix_
 * OH: “The Modernization of Japanese Film”
@@ -312,7 +310,7 @@ Screening:
 * Mamoru Oshii, _Ghost in the Shell_ (Japan, 1995, 83 mins.) _Available to rent on iTunes._
 
 ### Week 23: Phenomenology & description
-#### Monday, March 23:
+#### Tuesday, March 23:
 Reading due:
 * Susan Sontag, “[Against Interpretation](https://cr.library.utoronto.ca/get/course/532959/hash/i.TqzG5w)”
 * Vivian Sobchack, “[What My Fingers Knew](https://q.utoronto.ca/files/6484231/download?download_frd=1)”
@@ -323,7 +321,7 @@ Screening:
 * Luca Guadignino, _I am Love_ (_Io sono l'amore_, Italy, 2009, 114 mins.) _Available to rent on iTunes._
 
 ### Week 24: Networked life
-#### Monday, March 30:
+#### Tuesday, March 30:
 Reading due:
 * Julian Dibbel, “[A Rape in Cyberspace](https://cr.library.utoronto.ca/get/course/532959/hash/i.sQwzMC)”
 * Alexander Galloway, “[Networks](https://cr.library.utoronto.ca/get/course/532959/hash/i.KvnfHD)”
