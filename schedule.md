@@ -319,26 +319,22 @@ Screening:
 * Luca Guadignino, _I am Love_ (_Io sono l'amore_, Italy, 2009, 114 mins.)
 
 ### Week 24: Networked life
-#### Tuesday, March 30:
+#### Tuesday, April 4:
 Reading due:
 * Julian Dibbel, “[A Rape in Cyberspace](https://cr.library.utoronto.ca/get/course/532959/hash/i.sQwzMC)”
 * Alexander Galloway, “[Networks](https://cr.library.utoronto.ca/get/course/532959/hash/i.KvnfHD)”
 * Kris Cohen, “[Search Engine Subjectivities](https://q.utoronto.ca/files/6484254/download?download_frd=1)” from _Never Alone Except for Now_
 * Anna Watkins Fisher, “[User be Used](https://www-jstor-org.myaccess.library.utoronto.ca/stable/10.13110/discourse.36.3.0383?pq-origsite=summon#metadata_info_tab_contents)”
 
-#### Wednesday, April 1:
+#### Wednesday, April 5:
 Screening:
-* Lernert Engelberts and Sander Plug, _I Love Alaska_ (Netherlands, 2009, 55 mins.) _Available [on YouTube](https://www.youtube.com/playlist?list=PL66D276282DFDA6A5)._ 
-* ~~Frances Stark, _My Best Thing_ (USA, 2011, excerpts)~~
-* Miranda July, _Somebody_ (USA, 2015, 10 mins.) _Available [on YouTube](https://www.youtube.com/watch?v=iz13HMsvb6o)._
-* Thompson + Craighead, _Beacon_ (UK, 2005–present). _Available at: http://automatedbeacon.net.
-
-### Below here, everything is still technically as stated. That said, it is open to negotiation and improvisation, depending on how events develop in response to the development of the COVID-19 pandemic and U of T's response.
+* Lernert Engelberts and Sander Plug, _I Love Alaska_ (Netherlands, 2009, 55 mins.) 
+* Miranda July, _Somebody_ (USA, 2015, 10 mins.) 
+* Thompson + Craighead, _Beacon_ (UK, 2005–present)
 
 ### Wednesday, April 1: Paper 4 due by 11:59pm.
 
 #### Wednesday, April 1: Paper 4 marking window closes at 11:59pm. (NB: to ensure they receive a mark before the final exam, students must submit this paper on time. Also: to receive written feedback on this paper, students must request that feedback by indicating that in a "submission comment" with their Quercus paper submission.)
 
-#### April 2 & 3: No tutorials.
+#### April 6 & 7: No tutorials.
 
-## Final exam date TBD.
