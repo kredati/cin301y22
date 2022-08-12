@@ -278,47 +278,45 @@ Screening:
 ### Friday, March 10: Paper 3 due at 11:59pm.
 
 ### Week 21: Circulation & globalization
-#### Tuesday, March 9: Reading due:
+#### Tuesday, March 14: Reading due:
 Reading due:
 * Ashish Rajadhyaksha, “[The ‘Bollywoodization’ of the Indian Cinema: Cultural Nationalism in a Global Arena](https://journals-scholarsportal-info.myaccess.library.utoronto.ca/details/14649373/v04i0001/25_toticcniaga.xml)”
 * Priya Joshi, “[Bollylite in America](https://journals-scholarsportal-info.myaccess.library.utoronto.ca/details/14746689/v08i0003/245_bia.xml)”
 * OH: “India: Filming the Nation”
 
-#### Wednesday, March 11:
+#### Wednesday, March 15:
 Screening:
-* Karan Johar, _Kabhi Khushi Kabhie Gham..._ (India, 2001, 210 mins.) _Available on Amazon Prime._
+* Karan Johar, _Kabhi Khushi Kabhie Gham..._ (India, 2001, 210 mins.)
 
 _NB: We will not be able to screen all of K3G in our time together in Town Hall. The balance of the film will be shown in tutorials._
 
-### Thursday, March 12 & Friday, March 13:
+### Thursday, March 16 & Friday, March 17:
 Tutorials:
 * ...will continue the screening of _K3G_.
 
 #### Friday, March 17: Paper 3 marking window closes at 11:59pm. (Note the 7-day marking window.)
 
-### Weeks 22, 23, and 24 are, due to U of T's COVID-19 social distancing responses, now considered "Optional Enrichment" material. Please feel free to engage online as much as you'd like, but the assessments for the course will not in any way require you to address this material.
-
 ### Week 22: Animation & machine
-#### Tuesday, March 16:
+#### Tuesday, March 21:
 * Tom Lamarre, “[The Anime Machine](https://q.utoronto.ca/files/4270847/download?download_frd=1),” from _The Anime Machine_ (NB: The PDF includes this introduction as well as three subsequent chapters. The chapters are recommended, but not required reading. Only the introduction is required.)
 * Marc Steinberg, “[Limiting Movement, Inventing Anime](https://q.utoronto.ca/files/4270848/download?download_frd=1),” from _Anime’s Media Mix_
 * OH: “The Modernization of Japanese Film”
 
-#### Wednesday, March 18:
+#### Wednesday, March 22:
 Screening:
-* ~~Katsuhiro Otomo, _Akira_ (アキラ, Japan, 1988, 124 mins.)~~
-* Mamoru Oshii, _Ghost in the Shell_ (Japan, 1995, 83 mins.) _Available to rent on iTunes._
+* Katsuhiro Otomo, _Akira_ (アキラ, Japan, 1988, 124 mins.), or
+* Mamoru Oshii, _Ghost in the Shell_ (Japan, 1995, 83 mins.) 
 
 ### Week 23: Phenomenology & description
-#### Tuesday, March 23:
+#### Tuesday, March 28:
 Reading due:
 * Susan Sontag, “[Against Interpretation](https://cr.library.utoronto.ca/get/course/532959/hash/i.TqzG5w)”
 * Vivian Sobchack, “[What My Fingers Knew](https://q.utoronto.ca/files/6484231/download?download_frd=1)”
 * Bruno Latour, “[Why Has Critique Run Out of Steam?](https://www-jstor-org.myaccess.library.utoronto.ca/stable/10.1086/421123?pq-origsite=summon&seq=1#metadata_info_tab_contents)”
 
-#### Wednesday, March 25:
+#### Wednesday, March 29:
 Screening:
-* Luca Guadignino, _I am Love_ (_Io sono l'amore_, Italy, 2009, 114 mins.) _Available to rent on iTunes._
+* Luca Guadignino, _I am Love_ (_Io sono l'amore_, Italy, 2009, 114 mins.)
 
 ### Week 24: Networked life
 #### Tuesday, March 30:
