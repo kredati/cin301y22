@@ -91,13 +91,13 @@ The last assignment for the course, due not later than 11:59pm on Friday, April 
 This assignment is worth 10% of your final mark.
 
 The way this works is as follows:
-* The revised paper will be marked according to the rubric for the original paper.
+* The revised paper will be re-marked from scratch according to the rubric for the original paper.
 * The original mark will be superseded by the mark for the revision.
 * In addition, the _quality of the revision itself_ will be assessed according to a different rubric; this is the mark you will receive for the "Revision" assignment, that is worth 10% of your final mark.
 
 #### Minimum passing requirements
-For all students, please note that the minimum passing requirements for CIN301 are as follows:
-* Both fall term papers must be submitted by 11:59pm on the Friday of the first week of winter term (January 13).
+For all students, please note that the **minimum passing requirements** for CIN301 are as follows:
+* Both fall term papers (Papers 1 & 2) must be submitted by 11:59pm on the Friday of the first week of winter term (January 13).
 * Both winter term papers (Papers 3 & 4) must be submitted before the end of the final exam period in April, which is to say, by 11:59pm on April 28.
 
 Exceptions to these minimum requirements will be made only _in extremis_, with explicit negotiation with Scott well in advance of the relevant dates, and with the involvement of studdent support services (e.g. College Registrars, Accessibility Services, etc.).
