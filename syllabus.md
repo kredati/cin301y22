@@ -86,7 +86,7 @@ Over the course of the year, you will write four papers, all in the range of 1,5
 Each paper is due by 11:59pm on the day it is due. Papers should be uploaded in Microsoft Word format to Quercus.
 
 #### Revision
-The last assignment for the course, due not later than April 28, is a revision of one of their first three papers. Details TBD; we will talk a great deal over the course of the year about how to revise written work.
+The last assignment for the course, due not later than 11:59pm on Friday, April 28, is a revision of one of their first three papers. Details TBD; we will talk a great deal over the course of the year about how to revise written work.
 
 This assignment is worth 10% of your final mark.
 
