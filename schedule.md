@@ -332,9 +332,8 @@ Screening:
 * Miranda July, _Somebody_ (USA, 2015, 10 mins.) 
 * Thompson + Craighead, _Beacon_ (UK, 2005–present)
 
-### Wednesday, April 1: Paper 4 due by 11:59pm.
-
-#### Wednesday, April 1: Paper 4 marking window closes at 11:59pm. (NB: to ensure they receive a mark before the final exam, students must submit this paper on time. Also: to receive written feedback on this paper, students must request that feedback by indicating that in a "submission comment" with their Quercus paper submission.)
-
 #### April 6 & 7: No tutorials.
 
+### Friday, April 14: Paper 4 due by 11:59pm.
+
+### Friday, April 28: Paper revision due by 11:59pm.
