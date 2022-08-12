@@ -83,18 +83,19 @@ Homework due:
 ## Unit 2: The 70s: Thinking the apparatus
 
 ### Week 7: Cinema and/as ideology
-#### Tuesday, October 21: Reading due:
+#### Tuesday, October 25: Reading due:
 * Louis Althusser, “[Ideology and Ideological State Apparatuses](https://q.utoronto.ca/courses/114159/files/folder/Additional%20readings?preview=4270819)”
 * Jean-Louis Baudry, “[Ideological Effects of the Basic Cinematographic Apparatus](https://www-jstor-org.myaccess.library.utoronto.ca/stable/1211632?seq=1#metadata_info_tab_contents)”
 
-#### Wednesday, October 23:
+#### Wednesday, October 26:
 Screening:
 * Rainer Werner Fassbinder, _Ali: Fear Eats the Soul_ (_Angst essen seele auf_, Germany, 1973, 94 mins.)
 
-### Friday, October 25: First paper due by 11:59pm.
+### Friday, October 28: First paper due by 11:59pm.
 
 ### Week 8: Primary cinematic identification, or blockbuster reality
-#### Tuesday, October 28: Reading due:
+#### Tuesday, November 1:
+Reading due:
 * Jacques Lacan, “[The Mirror Stage as Formative of the I Function](https://cr.library.utoronto.ca/get/course/532959/hash/i.4qwqP3)”
 * Annette Michelson, “[Bodies in Space: Film as Carnal Knowledge](https://q.utoronto.ca/courses/114159/files/folder/Additional%20readings?preview=4813079)”
 * Christian Metz, [“Identification, Mirror,” “The Passion for Perceiving,” and “Disavowal, Fetishism,”](https://cr.library.utoronto.ca/get/course/532959/hash/i.3tdmNb) from _The Imaginary Signifier_
