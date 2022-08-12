@@ -65,6 +65,10 @@ Tutorial citizenship comprises two sets of activities. It is different than the 
 
 At the end of the year, your TA will tally the number of questions each student has asked, and the number of group notes to which each student has contributed. Each question or contribution to group notes will count as a "chit." Each chit is worth 7 points (although the maximum citizenship score a student may receive is, naturally, 100).
 
+Note that both tutorial citizenship marks require attendance at tutorial to complete. That is by design.
+
+Students may receive both kinds of chits for a single tutorial meeting.
+
 Taken together, the citizenship mark is 15% of your final mark.
 
 #### Papers
@@ -77,56 +81,77 @@ Over the course of the year, you will write four papers, all in the range of 1,5
 
 Each paper is due by 11:59pm on the day it is due. Papers should be uploaded (doc, docx, pages, or rtf) to the Quercus site.
 
-~~Unexcused late submission of papers will be penalized as follows: for each stepwise 24–hour period a paper is late, a penalty equivalent to one plus/minus mark will be applied.~~ Late penalties will not be assessed; see the [Quercus page on the revised late penalties policy](https://q.utoronto.ca/courses/114159/pages/late-penalty-policy-revisions) for more information.
+#### Revision
+The last assignment for the course, due not later than April 28, is a revision of one of their first three papers. Details TBD; we will talk a great deal over the course of the year about how to revise written work.
 
-#### Paper revision and resubmission
-Students may, at the end of the year, revise and resubmit one of their papers in light of the comments offered on that paper. I (Scott—and not the TA who originally marked it) will re-mark the paper and revise the mark for that paper. To avail yourself of this opportunity, you must submit, in hard copy (note this is the only assignment offered in hard copy) in the CIN301 drop box in the Cinema Studies Institute: the original paper; the populated marking rubric for the paper; the comments on the paper; a letter detailing the revisions you have made with explanations for each of the major terms of revision; and the revised paper. Revised marks will be assessed by the end of the finals marking period. Please be advised that it is possible, although not likely, that the revised mark will be lower than the originally assessed mark.
+This assignment is worth 10% of your final mark.
 
-#### Final “exam”
-Note the scare quotes: You will write an exam during a formal final exam period, run by the Faculty with invigilators and all that. However, I will make the questions to the exam available to students on the last day of regular class. These will all be essay questions; you will have a choice in which questions you answer. You will not, however, have any materials in front of you when you write the exam. It will be cumulative. Each essay will be marked according to a rubric distributed with the exam questions.
+The way this works is as follows:
+* The revised paper will be marked according to the rubric for the original paper.
+* The original mark will be superseded by the mark for the revision.
+* In addition, the _quality of the revision itself_ will be assessed according to a different rubric; this is the mark you will receive for the "Revision" assignment, that is worth 10% of your final mark.
 
 #### Minimum passing requirements
 For all students, please note that the minimum passing requirements for CIN301 are as follows:
-* Both fall term papers must be submitted before our first winter term meeting. That is to say, you must turn in Papers 1 and 2 before ~~noon on Monday, January 6, 2020~~ 11:59pm on Friday, January 10, 2020.
-* Both winter term papers (Papers 3 & 4) must be submitted before the end of the final exam period in April, which is to say, before 11:59pm on Saturday, April 25, 2020.
-* All students must sit the final exam.
+* Both fall term papers must be submitted by 11:59pm on the Friday of the first week of winter term (January 13).
+* Both winter term papers (Papers 3 & 4) must be submitted before the end of the final exam period in April, which is to say, by 11:59pm on April 28.
 
 Exceptions to these minimum requirements will be made only _in extremis_, with explicit negotiation with Scott well in advance of the relevant dates, and with the involvement of studdent support services (e.g. College Registrars, Accessibility Services, etc.).
 
-Please note that this means that failing to submit any of the four papers will result in an automatic failing mark of 0, regardless of your calculated average. For the purposes of this scheme, I will accept fall term papers before winter term, and winter term papers before the end of the April exam period. Note, however, that with late penalties you may well receive Fs for those papers.
-
 ### Accessibility
-I believe in making learning accessible to all students.
+I believe in making learning accessible to all students. That means I have attempted to design this course as "universally accessible," meaning that no student should have to negotiate with me to receive accommodations. That said, I am extremely eager to discuss any accessibility needs with any student.
 
-If you have accessibility needs, please discuss them with me (Scott) early and often. These can include mobility, affective, or cognitive accessibility issues. Some of these redound to the classroom environment, others to assessment.
+If you have accessibility needs that are not met in any way by the scheme below, please discuss them with me (Scott) early and often. These can include mobility, affective, or cognitive accessibility issues. Some of these redound to the classroom environment, others to assessment.
+
+#### Late work
+My late work policy is unusual and a little bit complicated. Please read this carefully.
+
+* Paper prompts will be circulated at least three weeks before papers are due.
+* Papers are due on their due date. Allow me to repeat: PAPERS ARE DUE ON THEIR DUE DATE.
+* That said, there are _never_ any penalties in marks for missing a deadline. That said, there are some consequences.
+* Each paper has a "marking window." If you submit your paper within the marking window, it will be marked with the papers that were submitted on time, and you'll get a mark and comments in good time. Marking windows are normally 10 calendar days.
+* After that marking window, your paper will be marked with the _subsequent_ round of papers, months later. (E.g., if you submit your second paper after December 18, it will not be marked until mid-March.)
+* Additionally, if you miss the deadline by more than two weeks, you will not get your paper marked unless and until you meet with Scott to discuss your situation.
+* See also the minimum passing requirements: both fall term papers must be submitted by (approximately) the beginning of winter term; winter term papers must be submitted by the end of finals period. These two deadlines are _hard stops_. (For example, you will not be able to convince me that you can submit zero papers in fall term but _four_ papers in winter term.)
 
 #### Classroom environment
 I aim for a fully accessible classroom environment. This covers a few areas.
 
-##### Course materials
-I aim to ensure all students can equally access course materials. While no recordings of lectures will be allowed without Scott's permission, and no recordings of tutorial discussions will be allowed without your TA and fellow students’ permission—although, please do ask permission if you wish to record them!—I will make classroom material accessible in three ways by making the following materials available to students on the main CIN301 Quercus site: (1) any and all lecture slides (although please note that I absolutely loathe [the cognitive style of PowerPoint](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf) and so only use them infrequently, and when I do, they are minimal); (2) any and all lecture notes that I prepare for my lecture (although please note that I do not write all the little things down and prefer a generally improvisational style of teaching, and are mostly devised to remind me of what I'd like to say, so they may not be as detailed as you might expect); and (3) class notes taken by a TA in each and every class we have together (these will likely be the most helpful, although they will likely vary in style and resolution depending on which TA is taking them).
+##### Masks and masking
+My husband is on immunosuppressant drugs. This has been a terrifying set of years, and perhaps never more so than now, when Covid-19 is rampant and we no longer have any public health measures. 
 
-In addition, as the Library has scanned all the course readings, the PDFs should also be accessible. If you require accessible PDFs beyond what the library has prepared, please contact me as soon as possible.
+I _implore_ you (even beg you) to wear a high-quality (KN95 or better) mask when attending lecture and tutorial (and all your classes). I cannot require this. However, given that not wearing a mask negatively impacts other students (those who are immunocompromised, or those, like me, who live with those who are), if you do not wish to wear a mask in class, I request that you do not attend lecture and instead watch lectures by livestream. Despite the University's position on this, this is a profound equity and accessibility issue.
+
+##### Streaming and recorded lectures
+All lectures will be live-streamed, and recordings will also be posted. That said, because of the Innis A/V staff's limited capacity, recordings will not be posted for several days (or up to a week). Please either attend lecture or live-stream it so that you can be ready for tutorial.
+
+Lecture recordings are my intellectual property, and may not be circulated or shared without my permission.
+
+##### Other course materials
+I will post all of my lecture notes and any slide decks to our course website. While tutorials may *not* be recoreded, each tutorial session should have group notes available. In addition, one of the TAs will take notes during every lecture, and we will post those notes online as well.
+
+All the course readings should also be accessible. If you require accessible PDFs beyond what the library has prepared, please contact me as soon as possible.
 
 ##### Inclusion
 I aim for radical inclusion of BIPOC, queer, trans, disabled, and otherwise marginalized students. This a regulative norm and not an actually-achievable goal. This means a few things. I will attempt to use language in ways that do not further promote marginalization. I will attempt to centre the experience and voice of marginalized groups, whenever possible. I will, inevitably, fail to live up to these goals. And so I will also always be open to discussions of how further to foster an environment of radical inclusion, either in or out of class. If you wish to discuss practices of inclusion with me, I am especially eager to have you visit me in my office. I promise you I will welcome your advice & insight.
 
 ##### The physical environment of the classroom
 If you require any modifications to the classroom environment in order to be present and learn well in class, please communicate those needs early and often, by whatever means you have at your disposal. I mean this both very literally and very enthusiastically: I am left-handed and fat, so I know about not fitting into seats and not finding desks I can write at. I will work with you to do what we need to get you comfortable in your learning environments.
-On laptops in the classroom.
 
-This seems like a funny place to put this, but: laptops and other screens that change quickly (e.g. smartphones and iPads, but not Kindles) are highly distracting for others in the room, especially the students sitting behind you. This really is an accessibility issue: futzing with your phone or surfing the web is polluting the shared space and impacting others' ability to learn. The ability to maintain focus in the face of distraction is not a given for people with cognitive or affective accessibility needs. If you wish to use a laptop in class—and I invite you to consider that you might want to less than you think you do!, as the internet is an ungovernable distraction device—please sit toward the rear of the auditorium, and keep your window-switching to a minimum. Consider also disabling distracting network connections, either by turning off your WiFi for the duration of class or by using a content-blocker such as [Freedom](https://freedom.to) to keep yourself away from Twitter or whatever it is you kids are using these days. Your affect, and your use of technology to manage that affect, affects others around you.
+##### On laptops in the classroom
+This seems like a funny place to put this, but: laptops and other screens that change quickly (e.g. smartphones and iPads, but not Kindles) are highly distracting for others in the room, especially the students sitting behind you. This really is an accessibility issue: futzing with your phone or surfing the web is polluting the shared space and impacting others' ability to learn, especially those with ADHD or other cognitive or executive-function disorders. The ability to maintain focus in the face of distraction is not a given for people with cognitive or affective accessibility needs. If you wish to use a laptop in class—and I invite you to consider that you might want to less than you think you do!, as the internet is an ungovernable distraction device—please sit toward the rear of the auditorium, and keep your window-switching to a minimum. Consider also disabling distracting network connections, either by turning off your WiFi for the duration of class or by using a content-blocker such as [Freedom](https://freedom.to) to keep yourself away from Twitter or whatever it is you kids are using these days. Your affect, and your use of technology to manage that affect, affects others around you.
 
 #### Course assessment
-I am happy to modify the parameters of assessment—usually, but not always, by granting extensions—according to whatever accommodations students have worked out with Accessibility Services. However, I require that any student requesting accommodation discuss those accommodations with me, in person, **in the first four weeks of the class**, with the paperwork from Accessibility Services in hand.
+It is possible to modify course assessment due to accessibility reasons. I will happily consider doing so. That said, this is the sort of thing that will have to be bespoke. Please talk to me early and often if you require modifications to the coursework. Please also see the portion of the syllabus on late work.
 
-That said, I recognize that not all students in situations warranting accommodation can get approved by accessibility services. If you wish to seek accommodation that has not been formally organized by Accessibility Services for any reason, please come talk to me about it as soon as you can.
+#### Documentation, or lack thereof
+Not all students in situations warranting accommodation can get approved by accessibility services. If you wish to seek accommodation that has not been formally organized by Accessibility Services for any reason, please come talk to me about it as soon as you can.
 
-If you have any reason to seek an extension that might be reasonably understood as an accessibility issue, even if it is temporary and you don't have paperwork from Accessibility Services, please contact me. Please be advised that I may well attach what I understand to be reasonable requirements to such one-off accessibility-based accommodations, such as obtaining a letter from your College Registrar. These requirements are mostly devised to ensure that you are connected to the relevant support services.
+If you have any reason to seek an accommodation, even if it is temporary and you don't have paperwork from Accessibility Services, please contact me. Please be advised that I may well attach what I understand to be reasonable requirements to such one-off accessibility-based accommodations, such as obtaining a letter from your College Registrar. These requirements are mostly devised to ensure that you are connected to the relevant support services.
 
 ### Other policies & procedures
 #### Attendance
-You should come to all the lectures, screenings, and tutorials in CIN301. If you have a standing conflict and cannot ever make some portion of the lecture, screening, or tutorial, you should not take this course. Please also note that, despite the availability of course materials on Quercus, some course material will only be available in class, especially certain films. That said, I do not take attendance of any kind. However, you should note that some assessments (tutorial questions) do require your attendance. Such assessments allow students to miss several classes without consequence. You should **not** email me or your TA with notifications of absence, documentation for excused absences, or similar.
+You should come to all the lectures, screenings, and tutorials in CIN301. If you have a standing conflict and cannot ever make some portion of the lecture, screening, or tutorial, you should not take this course. Please also note that, despite the availability of course materials on Quercus, some course material will only be available in class, especially certain films. That said, I do not take attendance of any kind. However, you should note that some assessments (tutorial citizenship) do require your attendance and cannot be made up. Such assessments allow students to miss several classes without consequence. You should **not** email me or your TA with notifications of absence, documentation for excused absences, or similar.
 
 #### Email
 I cannot promise to respond to emails in a particular time-frame. I will try to do so in a timely manner, but give yourself plenty of lead-time when emailing me about time-sensitive matters. Please consider instead meeting with me in office hours. Also, if I have not responded to your email within a week, please feel very encouraged to send me a reminder email. I will thank you for it.
@@ -136,3 +161,4 @@ The University of Toronto considers academic honesty and integrity to be importa
 
 That said, we will not be using any plagiarism-detection software this year, as it violates both a spirit of trust (I actually trust you) and [students' intellectual property rights](https://www.zdnet.com/article/turnitin-if-youre-a-student-all-your-intellectual-property-might-belong-to-us/).
 
+_Personal note: I am a big softie about lots of things, but academic dishonesty is where I am an inveterate hard-ass. I will escalate even the most minor-seeming infractions. If you ever have questions about academic dishonesty, please ask. The consequences of an academic dishonesty case are far, far worse than the embarrassment of having to ask about something you think you ought to know the answer to._
