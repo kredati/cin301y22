@@ -132,7 +132,7 @@ My husband is on immunosuppressant drugs. This has been a terrifying set of year
 I _implore_ you (even beg you) to wear a high-quality (KN95 or better) mask when attending lecture and tutorial (and all your classes). I cannot require this. However, given that not wearing a mask negatively impacts other students (those who are immunocompromised, or those, like me, who live with those who are), if you do not wish to wear a mask in class, I request that you do not attend lecture and instead watch lectures by livestream. Despite the University's position on this, this is a profound equity and accessibility issue.
 
 ##### Streaming and recorded lectures
-All lectures will be live-streamed, and recordings will also be posted. That said, because of the Innis A/V staff's limited capacity, recordings will not be posted for several days (or up to a week). Please either attend lecture or live-stream it so that you can be ready for tutorial.
+All lectures will be live-streamed, and recordings will also be posted. That said, because of the Innis A/V staff's limited capacity, recordings may not be posted for several days (or up to a week). Please either attend lecture or live-stream it so that you can be ready for tutorial.
 
 Lecture recordings are my intellectual property, and may not be circulated or shared without my permission.
 
