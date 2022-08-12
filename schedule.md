@@ -33,17 +33,17 @@ Screening:
 * Barbara Rubin, _Christmas on Earth_ (USA, 1963, 29 mins.)
 
 ### Week 3: The New Waves: Prague, 1966
-#### Tuesday, September 23:
+#### Tuesday, September 27:
 Reading due:
 * Jan Žalman, “[Question Marks on the New Czechoslovak Cinema](https://cr.library.utoronto.ca/get/course/532959/hash/i.c3X7Gz)”
 * Jean-Francois Lyotard, “[Acinema](https://cr.library.utoronto.ca/get/course/532959/hash/i.bVkF4d)”
 * Bliss Cua Lim, “[Dolls in Fragments: _Daisies_ as Feminist Allegory](https://cr.library.utoronto.ca/get/course/532959/hash/i.52244D)”
 
-#### Wednesday, September 25:
+#### Wednesday, September 28:
 Screening:
 * Vera Chytilová, _Daisies_ (_Sedmikrásky_, Czechoslovakia, 1966, 74 mins.)
 
-### Week 4: Third Cinema, revolutionary cinema
+### Week 4: Third Cinema: Buenos Aires, 1969
 #### Tuesday, September 30:
 Reading due:
 * Octavio Getino & Fernando Solanas, “[Toward a Third Cinema](https://cr.library.utoronto.ca/get/course/532959/hash/i.V3jvBW)”
