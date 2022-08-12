@@ -83,7 +83,8 @@ Homework due:
 ## Unit 2: The 70s: Thinking the apparatus
 
 ### Week 7: Cinema and/as ideology
-#### Tuesday, October 25: Reading due:
+#### Tuesday, October 25: 
+Reading due:
 * Louis Althusser, “[Ideology and Ideological State Apparatuses](https://q.utoronto.ca/courses/114159/files/folder/Additional%20readings?preview=4270819)”
 * Jean-Louis Baudry, “[Ideological Effects of the Basic Cinematographic Apparatus](https://www-jstor-org.myaccess.library.utoronto.ca/stable/1211632?seq=1#metadata_info_tab_contents)”
 
@@ -99,13 +100,13 @@ Reading due:
 * Jacques Lacan, “[The Mirror Stage as Formative of the I Function](https://cr.library.utoronto.ca/get/course/532959/hash/i.4qwqP3)”
 * Annette Michelson, “[Bodies in Space: Film as Carnal Knowledge](https://q.utoronto.ca/courses/114159/files/folder/Additional%20readings?preview=4813079)”
 * Christian Metz, [“Identification, Mirror,” “The Passion for Perceiving,” and “Disavowal, Fetishism,”](https://cr.library.utoronto.ca/get/course/532959/hash/i.3tdmNb) from _The Imaginary Signifier_
-* OH: “The New Hollywood” and “Dreams and Nightmares in the Hollywood Blockbuster”
 
-#### Wednesday, October 30: Screening:
+#### Wednesday, November 2:
+Screening:
 * Jordan Belson, _Samahdi_ (USA, 1967, 6 mins.)
 * Stanley Kubrick, _2001: A Space Odyssey_ (USA, 1968, 149 mins.)
 
-#### November 4–8: No meetings; it's Reading Week.
+#### November 7–11: No meetings; it's Reading Week.
 
 ### Week 9: Secondary cinematic identification, or passionate detachment
 #### Tuesday, November 11:
