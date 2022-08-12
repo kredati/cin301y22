@@ -56,8 +56,8 @@ Screening:
 * Santiago Alvarez, _Now_ (Cuba, 1965, 5 mins.)
 * Octavio Getino & Fernando Solanas, _Hour of the Furnaces_, part 1: “Neocolonialism and Violence” (_La hora de los hornos_, Argentina, 1968, 90 mins.)
 
-### Week 5: Fourth Cinema, indigeneity
-#### Tuesday, October 7:
+### Week 5: Fourth Cinema: Iqaluit, 2006
+#### Tuesday, October 11:
 Reading due:
 * Barry Barclay, “[Celebrating Fourth Cinema](https://q.utoronto.ca/files/4270831/download?download_frd=1)”
 * Kerstin Knopf, “[The Journals of Knud Rasmussen: Arctic History as Post/Colonial Cinema](https://q.utoronto.ca/files/4270806/download?download_frd=1)”
@@ -65,14 +65,15 @@ Reading due:
 * Arnold Krupat, “[_Atanarjuat, The Fast Runner_ and Its Audiences](https://cr.library.utoronto.ca/get/course/532959/hash/i.Q6Gd2C)”
 * Corinn Columpar, [Preface and “Speech Acts: Toward a ‘Postcolonial’ Poetics,”](https://q.utoronto.ca/files/4270816/download?download_frd=1) from _Unsettling Sights_
 
-#### Wednesday, October 9:
+#### Wednesday, October 12:
 Screening:
 * Zacharias Kunuk and Norman Cohn, _The Journals of Knud Rasmussen_ (Canada, 2006, 112 mins.)
 
 ### Week 6: Writing workshop the first
-#### Tuesday, October 14: Thanksgiving, no class.
+#### Tuesday, October 18: 
+TBD
 
-#### Wednesday, October 16:
+#### Wednesday, October 19:
 Reading due:
 * Wayne Booth, et al., [“From Topic to Question,” “From Question to Problem,”](https://q.utoronto.ca/files/4270833/download?download_frd=1) from _The Craft of Research_.
 
@@ -85,7 +86,6 @@ Homework due:
 #### Tuesday, October 21: Reading due:
 * Louis Althusser, “[Ideology and Ideological State Apparatuses](https://q.utoronto.ca/courses/114159/files/folder/Additional%20readings?preview=4270819)”
 * Jean-Louis Baudry, “[Ideological Effects of the Basic Cinematographic Apparatus](https://www-jstor-org.myaccess.library.utoronto.ca/stable/1211632?seq=1#metadata_info_tab_contents)”
-* OH: “The New German Cinema”
 
 #### Wednesday, October 23:
 Screening:
