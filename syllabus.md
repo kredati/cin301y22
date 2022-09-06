@@ -127,7 +127,9 @@ My late work policy is unusual and a little bit complicated. Please read this ca
 I aim for a fully accessible classroom environment. This covers a few areas.
 
 ##### Masks and masking
-My husband is on immunosuppressant drugs. This has been a terrifying set of years, and perhaps never more so than now, when Covid-19 is rampant and we no longer have any public health measures. 
+_The CSI boilerplate:_ Courtesy and mutual respect are essential academic values and crucial to a vibrant learning environment. For your own safety, and the safety of others, the Cinema Studies Institute strongly encourages those who can do so to continue to use masks in the classroom and other spaces where social distancing isn’t possible. Wearing a mask is always your choice, but choosing to do so is an important contribution to the health of our community. 
+
+_To which Scott adds:_ My husband is on immunosuppressant drugs. This has been a terrifying set of years, and perhaps never more so than now, when Covid-19 is rampant and we no longer have any public health measures. 
 
 I _implore_ you (even beg you) to wear a high-quality (KN95 or better) mask when attending lecture and tutorial (and all your classes). I cannot require this. However, given that not wearing a mask negatively impacts other students (those who are immunocompromised, or those, like me, who live with those who are), if you do not wish to wear a mask in class, I request that you do not attend lecture and instead watch lectures by livestream. Despite the University's position on this, this is a profound equity and accessibility issue.
 
