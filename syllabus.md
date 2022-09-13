@@ -7,21 +7,21 @@
   - Tuesdays, 12noon-1pm: Lecture, Innis Town Hall
   - Wednesdays, 12noon–3pm: Lecture & Screening, Innis Town Hall
   - Thursdays & Fridays: Tutorials
-  	* Thursdays, 10–11am (Media Commons Theatre)
-	* Thursdays, 6–7pm (Innis 312)
-	* Fridays, 10–11am (Media Commons Theatre)
-	* Fridays, 2–3pm (Media Commons Theatre)
+  	* Thursdays, 10–11am (Media Commons Screening Room)<br />TA: Andy Lee. TUT0101.
+		* Thursdays, 6–7pm (online)<br />TA: Andi Gilker. TUT5101.
+		* Fridays, 10–11am (Media Commons Screening Room)<br />TA: Stephen Schwartz. TUT0201.
+		* Fridays, 2–3pm (Media Commons Screening Room)<br />TA: Yung-Lin Wang. TUT0301.
 * **Instructor:** Scott Richmond (s.richmond@utoronto.ca)
 * **Office:** Director's Office (2nd floor), Centre for Culture and Technology Coach House, 39A Queen's Park Crescent East
 * **Office hours:** Tuesdays 2–5pm, and by appointment. Sign up for slots during regular hours at https://calendly.com/s-richmond/officehours/. Calendly bookings must be made at least 24 hours in advance of an appointment. Email Scott for an appoiintment. All office hours are by Zoom. [Click here to join Scott's Zoom room.](https://utoronto.zoom.us/j/2628701337)
 * **TAs:**<br />
 Andi Gilker<br />
 Andy Lee<br />
-Mynt Marcellus<br />
-Dillan Newman<br />
+Mynt Marsellus (marker)<br />
+Dillan Newman (marker)<br />
 Stephen Schwartz<br />
-Félix Veilleux<br />
-Stephen Schwartz
+Félix Veilleux (writing TA)<br />
+Yung-Lin Wang
 
 ### Land acknowledgment
 We acknowledge this sacred land on which the University of Toronto operates. It has been a site of human activity for 15,000 years. This land is the territory of the Huron-Wendat and Petun First Nations, the Seneca, and most recently, the Mississaugas of the Credit River. The territory was the subject of the Dish with One Spoon Wampum Belt Covenant, an agreement between the Iroquois Confederacy and Confederacy of the Ojibwe and allied nations to peaceably share and care for the resources around the Great Lakes.
@@ -31,7 +31,7 @@ Today, the meeting place of Toronto is still the home to many Indigenous people 
 These acknowledgments are a beginning, not an end. I invite all who must to walk the path of decolonization with me, settler and immigrant alike.
 
 ### Course description
-This course—the second half of the Film Cultures series—surveys major developments and debates in the history and theory of cinema from 1960 to the present. We will examine the proliferation of cinematic new waves, the formation of political and counter-cinemas, the linguistic, psychoanalytic, Marxist, feminist, and political turns of contemporaneous film theory, the influence of globalization and postcolonialism on national film cultures, and the multiple and conflicting relationships between cinema and other technological media, and the impacts of new media technologies on aesthetics, spectatorship, and theory. We will approach our study of these histories and theoretical debates from a transnational, interdisciplinary, and multi-medial perspective, integrating analyses of important film movements, filmmakers, and formal and institutional developments in film practice with cultural critique and social, cultural, economic, aesthetic, and political contexts.
+This course—the second half of the Film Cultures series—surveys major developments and debates in the history and theory of cinema from 1960 to the present. we will examine the proliferation of cinematic new waves, the formation of political and counter-cinemas, the linguistic, psychoanalytic, Marxist, feminist, and political turns of contemporaneous film theory, the influence of globalization and postcolonialism on national film cultures, and the multiple and conflicting relationships between cinema and other technological media, and the impacts of new media technologies on aesthetics, spectatorship, and theory. We will approach our study of these histories and theoretical debates from a transnational, interdisciplinary, and multi-medial perspective, integrating analyses of important film movements, filmmakers, and formal and institutional developments in film practice with cultural critique and social, cultural, economic, aesthetic, and political contexts.
 
 The course is structured around four primary objectives:
 * to develop a core foundation of skills necessary to read and think and write theoretically in relation to cinema and other technological and aesthetic media.
@@ -50,7 +50,7 @@ There are two required books for CIN301, both of which we will read in Winter te
 * Stanley Cavell, _The World Viewed_
 * Lucas Hilderbrand, _Paris is Burning: A Queer Film Classic_
 
-The remainder of the readings will be available through our Quercus site. Most of these are through the library e-reserves; some of them are in the `Files > Additional Readings` section of the Quercus site. The schedule has direct links to the readings as an aid, but if you are not already logged into Quercus and the Library e-reserves site, the links will not work. If you are having difficulty accessing readings through the course links, you will need to navigate to the readings directly through Quercus.
+The remainder of the readings will be available through our Quercus site. All of the readings are availabe [in the Modules section of our Quercus site](https://q.utoronto.ca/courses/278814/modules).
 
 ### Course schedule
 [The course schedule is in a separate document.](./schedule.md)
@@ -61,11 +61,13 @@ This term, you will be assessed in three ways: tutorial citizenship (15% of your
 #### Tutorial citizenship
 Tutorial citizenship comprises two sets of activities. It is different than the "participation" mark you may be used to. The two activities are as follows:
 
-**Questions.** Each week, the first 5–10 minutes of tutorials (see more on tutorial formats elsewhere) will be dedicated to collecting student questions. There are 22 normal tutorials throughout the year. Each tutorial is an opportunity to ask a question. The questions collected at the beginning of each tutorial will be the agenda for the tutorial. 
+**Questions.** Each week, the first 5–10 minutes of tutorials (see more on tutorial formats elsewhere) will be dedicated to collecting student questions. There are 18 normal tutorials throughout the year. Each tutorial is an opportunity to ask a question. The questions collected at the beginning of each tutorial will be the agenda for the tutorial.
 
-**Group notes.** Every tutorial session will also have a collaboratively authored group notes document, hosted on Google Docs. Students can collect citizenship credit for contributing (in a significant way) to the group notes.
+**Group notes.** Every tutorial session will also have a collaboratively authored group notes document, hosted on Google Docs. Students can collect citizenship credit for contributing (in a significant way) to the group notes, *within one week of a tutorial.*
 
-At the end of the year, your TA will tally the number of questions each student has asked, and the number of group notes to which each student has contributed. Each question or contribution to group notes will count as a "chit." Each chit is worth 7 points (although the maximum citizenship score a student may receive is, naturally, 100; you'll get full marks with 15 chits).
+Please note that you are required to have a Google account for group notes. I'm sorry; Google is evil. (But the Quercus functionality for collaborative editing of documents is broken, at least for me.)
+
+At the end of the year, your TA will tally the number of questions each student has asked, and the number of group notes to which each student has contributed. Each question or contribution to group notes will count as a "chit." Each chit is worth 7 points (although the maximum citizenship score a student may receive is, naturally, 100; you'll get full marks with 15 chits, out of a possible total of 36 chits).
 
 Note that both tutorial citizenship marks require attendance at tutorial to complete. That is by design.
 
@@ -76,7 +78,7 @@ Taken together, the citizenship mark is 15% of your final mark.
 We will _not_ calculate running tallies. If you wish to know your citizenship mark during the year, it is up to you to keep track of your questions and your contributions to group notes.
 
 #### Papers
-Over the course of the year, you will write four papers, all in the range of 1,500–2,000 words (~5–7 pages). Each is weighted equally. Together they count for 75% of your final mark. Each is thus worth the rather stupidly precise 18.75% of your final mark. Papers will be evaluated by letter grade according to a rubric distributed with the paper prompts. Paper prompts will be distributed at least two weeks in advance of the deadline. I will provide the paper prompts from the previous iteration of CIN301. The deadlines for papers are as follows:
+Over the course of the year, you will write four papers, all in the range of 1,500–2,000 words (approx. 5–7 pages). Each is weighted equally. Together they count for 75% of your final mark. Each is thus worth the rather stupidly precise 18.75% of your final mark. Papers will be evaluated by letter grade according to a rubric distributed with the paper prompts. Paper prompts will be distributed at least two weeks in advance of the deadline. I will provide the paper prompts from the previous iteration of CIN301. The deadlines for papers are as follows:
 
 * Friday, October 28
 * Thursday, December 8
@@ -97,6 +99,7 @@ The way this works is as follows:
 
 #### Minimum passing requirements
 For all students, please note that the **minimum passing requirements** for CIN301 are as follows:
+
 * Both fall term papers (Papers 1 & 2) must be submitted by 11:59pm on the Friday of the first week of winter term (January 13).
 * Both winter term papers (Papers 3 & 4) must be submitted before the end of the final exam period in April, which is to say, by 11:59pm on April 28.
 
@@ -156,6 +159,9 @@ This seems like a funny place to put this, but: laptops and other screens that c
 It is possible to modify course assessment due to accessibility reasons. I will happily consider doing so. That said, this is the sort of thing that will have to be bespoke, and thus negotiated. Please talk to me early and often if you require modifications to the coursework. Please also see the portion of the syllabus on late work.
 
 ### Other policies & procedures
+#### Changes to our schedule
+The course schedule is subject to change. Any changes to our schedule will be announced at least seven days in advance.
+
 #### Attendance
 You should come to all the lectures, screenings, and tutorials in CIN301. If you have a standing conflict and cannot ever make some portion of the lecture, screening, or tutorial, you should not take this course. Please also note that, despite the availability of course materials on Quercus, some course material will only be available in class, especially certain films. That said, I do not take attendance of any kind. However, you should note that some assessments (tutorial citizenship) do require your attendance and cannot be made up. Such assessments allow students to miss several classes without consequence. You should **not** email me or your TA with notifications of absence, documentation for excused absences, or similar.
 
